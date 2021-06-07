@@ -1,0 +1,1 @@
+pip install -Iv gensim==3.8.2
