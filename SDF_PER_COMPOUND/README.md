@@ -1,0 +1,1 @@
+All compounds will be converted into SDF. It will be in the folder “SDF_PER_COMPOUND”. Using the “SDF_PER_COMPOUND” Folder, in which we will have SDF files, SDF files Features will be extracted by running model_300 dim.pk.
