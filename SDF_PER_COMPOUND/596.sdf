@@ -1,0 +1,154 @@
+596
+     RDKit          2D
+
+ 17 18  0  0  1  0  0  0  0  0999 V2000
+   -1.4353   -0.9386    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7157    2.8755    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8797    2.0764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0406   -2.6786    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8487   -2.4790    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0220    0.1133    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1803   -1.3329    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5120   -0.1869    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2734    1.4830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7277    1.1157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4747    0.2134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8278   -0.3809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0975   -1.1797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8570    1.3594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6837   -1.2329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3536    1.2594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0153   -0.0868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  1 12  1  0
+  2  9  1  0
+  3 10  1  0
+  4 13  1  0
+  5 15  2  0
+  6 11  1  0
+  6 14  1  0
+  6 15  1  0
+  7 15  1  0
+  7 17  2  0
+  8 17  1  0
+  9 10  1  0
+  9 11  1  0
+ 10 12  1  0
+ 12 13  1  0
+ 14 16  2  0
+ 16 17  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+596
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+383
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+5
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBzOAAAAAAAAAAAAAAAAAAAASAAAAAgAAAAAAAAAAAAAAAAHgAQCAAACBThgAYBAANABgCoACJmdACAAAEAAgAIAAAYABCDEAIAgAAOQAAHFgITAADwMAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+4-amino-1-[3,4-dihydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl]pyrimidin-2-one
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+4-amino-1-[3,4-dihydroxy-5-(hydroxymethyl)-2-oxolanyl]-2-pyrimidinone
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+4-amino-1-[3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+4-amino-1-[3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+4-azanyl-1-[5-(hydroxymethyl)-3,4-bis(oxidanyl)oxolan-2-yl]pyrimidin-2-one
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+4-amino-1-(3,4-dihydroxy-5-methylol-tetrahydrofuran-2-yl)pyrimidin-2-one
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C9H13N3O5/c10-5-1-2-12(9(16)11-5)8-7(15)6(14)4(3-13)17-8/h1-2,4,6-8,13-15H,3H2,(H2,10,11,16)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+UHDGCWIWMRVCDJ-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>  (1) 
+-2.1
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+243.085521
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C9H13N3O5
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+243.22
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+129
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+243.085521
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+17
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+4
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+12  13  3
+14  16  8
+16  17  8
+9  2  3
+10  3  3
+11  6  3
+6  14  8
+6  15  8
+7  15  8
+7  17  8
+
+$$$$

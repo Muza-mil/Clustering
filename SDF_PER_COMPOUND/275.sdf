@@ -1,0 +1,133 @@
+275
+     RDKit          2D
+
+ 12 11  0  0  1  0  0  0  0  0999 V2000
+   -1.5245   -0.1875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9960    0.2950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6056   -1.8997    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4617    1.9005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7917    0.6152    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3876    0.7219    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1820   -1.5796    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0713   -0.2943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4001    0.4018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1958    0.5085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6672   -0.4010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1204   -0.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  1 10  1  0
+  2 11  1  0
+  3 11  2  0
+  4  9  1  0
+  5 12  2  3
+  6 12  1  0
+  7 12  1  0
+  8  9  1  0
+  8 10  1  0
+  9 11  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+275
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+178
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+5
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+5
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBjsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAUCAAACCjhgAYBCABQAgAoAACQKAAAAAAAAAAAAIGAAAACABAAAAAAQAAGEAAAAABCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+2-amino-4-guanidinooxy-butanoic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+2-amino-4-(diaminomethylideneamino)oxybutanoic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+2-amino-4-(diaminomethylideneamino)oxybutanoic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+2-amino-4-(diaminomethylideneamino)oxybutanoic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+2-azanyl-4-[bis(azanyl)methylideneamino]oxy-butanoic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+2-amino-4-guanidinooxy-butyric acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C5H12N4O3/c6-3(4(10)11)1-2-12-9-5(7)8/h3H,1-2,6H2,(H,10,11)(H4,7,8,9)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+FSBIGDSBMBYOPN-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>  (1) 
+-4.8
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+176.09094
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C5H12N4O3
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+176.17
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C(CON=C(N)N)C(C(=O)O)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C(CON=C(N)N)C(C(=O)O)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+137
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+176.09094
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+12
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+9  4  3
+
+$$$$

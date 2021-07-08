@@ -1,0 +1,135 @@
+775
+     RDKit          2D
+
+ 10 10  0  0  1  0  0  0  0  0999 V2000
+    4.1948   -0.2446    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3096   -1.0066    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4194   -1.3834    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3748    0.2685    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4331    1.0202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6201    0.1031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9546    0.4508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2309    1.2388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0078    0.6725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8054   -1.1193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0
+  2  7  1  0
+  2 10  1  0
+  3  6  1  0
+  4  8  1  0
+  4 10  2  0
+  5  6  1  0
+  5  7  1  0
+  6  9  1  0
+  7  8  2  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+775
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+118
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBjIAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAABgAAAHgAQAAAACCjhlgYtkBbJkACoARx35AAAgC2xEqABUYG4cAiAaBJA2QGUAAAIkAJAQCAcAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+2-amino-3-(1H-imidazol-5-yl)propanal
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+2-amino-3-(1H-imidazol-5-yl)propanal
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+2-amino-3-(1<I>H</I>-imidazol-5-yl)propanal
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+2-amino-3-(1H-imidazol-5-yl)propanal
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+2-azanyl-3-(1H-imidazol-5-yl)propanal
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+2-amino-3-(1H-imidazol-5-yl)propionaldehyde
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C6H9N3O/c7-5(3-10)1-6-2-8-4-9-6/h2-5H,1,7H2,(H,8,9)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+VYOIELONWKIZJS-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-1
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+139.074562
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C6H9N3O
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+139.16
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=C(NC=N1)CC(C=O)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=C(NC=N1)CC(C=O)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+71.8
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+139.074562
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+10
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+2  10  8
+2  7  8
+6  3  3
+4  10  8
+4  8  8
+7  8  8
+
+$$$$

@@ -1,0 +1,136 @@
+457
+     RDKit          2D
+
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+   -2.4878   -1.7359    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8615   -0.5809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1546    0.7752    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6466    0.0971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4117   -0.9659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2529    0.8671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2551    1.5451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1946    1.9301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9197   -1.6440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0963   -0.2879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0
+  2  5  2  0
+  2  6  1  0
+  2  9  1  0
+  3 10  1  0
+  4  5  1  0
+  4  7  2  0
+  4 10  1  0
+  6  8  2  0
+  7  8  1  0
+M  CHG  1   2   1
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+457
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+136
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBjIAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAABgAAAHgAQAAAADADBmgQ+gJNMEACoAjF3VACCgCA1AiAI2CE4ZNgIIPrA1ZGEIYhggADIycYYAQAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+1-methylpyridin-1-ium-3-carboxamide
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+1-methyl-3-pyridin-1-iumcarboxamide
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+1-methylpyridin-1-ium-3-carboxamide
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+1-methylpyridin-1-ium-3-carboxamide
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+1-methylpyridin-1-ium-3-carboxamide
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+1-methylpyridin-1-ium-3-carboxamide
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C7H8N2O/c1-9-4-2-3-6(5-9)7(8)10/h2-5H,1H3,(H-,8,10)/p+1
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+LDHMAVIPBRSVRG-UHFFFAOYSA-O
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-0.1
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+137.071488
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C7H9N2O+
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+137.16
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C[N+]1=CC=CC(=C1)C(=O)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C[N+]1=CC=CC(=C1)C(=O)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+47
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+137.071488
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+1
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+10
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+2  5  8
+2  6  8
+4  5  8
+4  7  8
+6  8  8
+7  8  8
+
+$$$$

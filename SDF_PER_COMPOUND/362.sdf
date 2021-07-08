@@ -1,0 +1,142 @@
+362
+     RDKit          2D
+
+ 12 13  0  0  1  0  0  0  0  0999 V2000
+   -1.5265   -2.3044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6381   -0.1734    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1316   -0.8573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1874    0.2082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3190   -0.4758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7139    0.9713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7926    1.6553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3419    2.0368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3748   -1.5413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1645    1.3529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8255   -1.1597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2203    0.2874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  2  4  1  0
+  3  4  1  0
+  3  5  1  0
+  4  7  1  0
+  5  6  2  0
+  5  9  1  0
+  6  8  1  0
+  6 10  1  0
+  7  8  2  0
+  9 11  2  0
+ 10 12  2  0
+ 11 12  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+362
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+188
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+0
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBwMAAAAAAAAAAAAAAAAAAAAAAAAAAwQAAAAAAAAACBAAAAGgAACAAADBSgmAIwAIAAAgCAAiBCAAACAAAgAAAIiAAACIgJNiKAERCAcAAkwAEJmAeAwKAOgAAAAAAQAAAAAAAAACAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+1,2-dihydronaphthalene-1,2-diol
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+1,2-dihydronaphthalene-1,2-diol
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+1,2-dihydronaphthalene-1,2-diol
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+1,2-dihydronaphthalene-1,2-diol
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+1,2-dihydronaphthalene-1,2-diol
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+1,2-dihydronaphthalene-1,2-diol
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C10H10O2/c11-9-6-5-7-3-1-2-4-8(7)10(9)12/h1-6,9-12H
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+QPUHWUSUBHNZCG-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+0.8
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+162.06808
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C10H10O2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+162.18
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=CC=C2C(C(C=CC2=C1)O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=CC=C2C(C(C=CC2=C1)O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+40.5
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+162.06808
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+12
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+2
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+3  1  3
+10  12  8
+11  12  8
+4  2  3
+5  6  8
+5  9  8
+6  10  8
+9  11  8
+
+$$$$

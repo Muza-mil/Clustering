@@ -1,0 +1,181 @@
+507
+     RDKit          2D
+
+ 30 31  0  0  1  0  0  0  0  0999 V2000
+   -2.1311    2.3062    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6992    1.9130    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1533    0.5444    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3219   -2.8778    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5799   -3.0653    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7335    1.7614    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5286    2.8510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4245   -2.5378    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5863    3.7038    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6758    0.9086    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8698    0.9750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7612    0.7424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6372    3.0836    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2109   -0.9009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7569   -3.8663    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7650   -0.0248    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2711   -0.7101    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1176    1.1175    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2719   -1.7169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7694   -1.8031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8911   -0.2660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3142   -0.4055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5065    0.2787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1607    1.4221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8202   -1.0909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6116    1.8028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6668    0.7367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6428   -0.5077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8133   -1.4457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5863   -2.9284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0
+  1  7  1  0
+  1  9  1  0
+  1 10  2  0
+  2  7  1  0
+  2 11  1  0
+  2 12  1  0
+  2 13  2  0
+  3 21  1  0
+  3 22  1  0
+  4 19  1  0
+  5 20  1  0
+  6 23  1  0
+  8 25  2  0
+ 11 28  1  0
+ 14 29  1  0
+ 15 30  1  0
+ 16 22  1  0
+ 16 24  1  0
+ 16 25  1  0
+ 17 25  1  0
+ 17 27  2  0
+ 18 27  1  0
+ 19 20  1  0
+ 19 21  1  0
+ 20 22  1  0
+ 21 23  1  0
+ 24 26  2  0
+ 26 27  1  0
+ 28 29  1  0
+ 29 30  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+507
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+791
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+13
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+7
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+10
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADceBzPAMAAAAAAAAAAAAAAAAAASAAAAAgAAAAAAAAAAAAAAAAHgAQCCAACBThgAYBAANABxCoQCJmdICAAAEAAgAIAAAYABCDEAIAgAAOQAAHFgITAADwMAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+[[5-(4-amino-2-oxo-pyrimidin-1-yl)-3,4-dihydroxy-tetrahydrofuran-2-yl]methoxy-hydroxy-phosphoryl] 2,3-dihydroxypropyl hydrogen phosphate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+[[5-(4-amino-2-oxo-1-pyrimidinyl)-3,4-dihydroxy-2-oxolanyl]methoxy-hydroxyphosphoryl] 2,3-dihydroxypropyl hydrogen phosphate
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+[[5-(4-amino-2-oxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] 2,3-dihydroxypropyl hydrogen phosphate
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+[[5-(4-amino-2-oxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] 2,3-dihydroxypropyl hydrogen phosphate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+[[5-(4-azanyl-2-oxidanylidene-pyrimidin-1-yl)-3,4-bis(oxidanyl)oxolan-2-yl]methoxy-oxidanyl-phosphoryl] 2,3-bis(oxidanyl)propyl hydrogen phosphate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+[[5-(4-amino-2-keto-pyrimidin-1-yl)-3,4-dihydroxy-tetrahydrofuran-2-yl]methoxy-hydroxy-phosphoryl] glyceryl hydrogen phosphate
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C12H21N3O13P2/c13-8-1-2-15(12(20)14-8)11-10(19)9(18)7(27-11)5-26-30(23,24)28-29(21,22)25-4-6(17)3-16/h1-2,6-7,9-11,16-19H,3-5H2,(H,21,22)(H,23,24)(H2,13,14,20)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+HHPOUCCVONEPRK-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>  (1) 
+-5.3
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+477.054962
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C12H21N3O13P2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+477.25
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OCC(CO)O)O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OCC(CO)O)O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+251
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+477.054962
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+30
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+5
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+29  14  3
+22  16  3
+16  24  8
+16  25  8
+17  25  8
+17  27  8
+21  23  3
+24  26  8
+26  27  8
+19  4  3
+20  5  3
+
+$$$$

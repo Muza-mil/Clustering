@@ -1,0 +1,136 @@
+840
+     RDKit          2D
+
+ 11 11  0  0  1  0  0  0  0  0999 V2000
+    0.0000   -1.7727    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    2.7273    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5981    1.2273    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5981    1.2273    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5981   -1.7727    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.2273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2990    0.4773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2990    0.4773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2990   -1.0227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2990   -1.0227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5981   -1.7727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 10  1  0
+  2  6  1  0
+  3  7  1  0
+  4  8  1  0
+  5 10  1  0
+  6  7  1  0
+  6  8  1  0
+  7  9  1  0
+  8 10  1  0
+  9 11  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+840
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+139
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+5
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+0
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBgOAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMCCAAABgAAAAAAAAAAAAAAAAAAAAAAAAAREAIAAAACQAAFAAAHAAHAYAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+6-methyltetrahydropyran-2,3,4,5-tetrol
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+6-methyloxane-2,3,4,5-tetrol
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+6-methyloxane-2,3,4,5-tetrol
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+6-methyloxane-2,3,4,5-tetrol
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+6-methyloxane-2,3,4,5-tetrol
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+6-methyltetrahydropyran-2,3,4,5-tetrol
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C6H12O5/c1-2-3(7)4(8)5(9)6(10)11-2/h2-10H,1H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+SHZGCJCMOBCMKK-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-2.1
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+164.068473
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C6H12O5
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+164.16
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+CC1C(C(C(C(O1)O)O)O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+CC1C(C(C(C(O1)O)O)O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+90.2
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+164.068473
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+11
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+5
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+6  2  3
+7  3  3
+8  4  3
+10  5  3
+9  11  3
+
+$$$$

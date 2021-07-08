@@ -1,0 +1,153 @@
+805
+     RDKit          2D
+
+ 20 20  0  0  1  0  0  0  0  0999 V2000
+   -3.9656   -0.1538    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9656    0.1538    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7946   -1.0911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7946    1.0911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3422    1.8746    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4524   -2.9657    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4524    2.9657    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3422   -1.8746    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0283    1.0173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1367    0.7835    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0283   -1.0173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1367   -0.7835    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9030   -1.3249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9030    1.3249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3973   -0.5455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3973    0.5455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1711    0.9373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2262   -1.4828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2262    1.4828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1711   -0.9373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  9  1  0
+  1 10  1  0
+  1 13  2  0
+  2  4  1  0
+  2 11  1  0
+  2 12  1  0
+  2 14  2  0
+  3 15  1  0
+  4 16  1  0
+  5 17  1  0
+  6 18  1  0
+  7 19  1  0
+  8 20  1  0
+ 15 17  1  0
+ 15 18  1  0
+ 16 19  1  0
+ 16 20  1  0
+ 17 19  1  0
+ 18 20  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+805
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+372
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+12
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+8
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBgPAMAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAGgAACCAACBSggAIAAAAAAxAAQAAAAIAAAAAAAAAAAAAAAAABEAIAAAAAQAAFAAABAAHAYAQAAAAAAAAAAAACAAAQAACAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+(2,3,5,6-tetrahydroxy-4-phosphonooxy-cyclohexyl) dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+(2,3,5,6-tetrahydroxy-4-phosphonooxycyclohexyl) dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+(2,3,5,6-tetrahydroxy-4-phosphonooxycyclohexyl) dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+(2,3,5,6-tetrahydroxy-4-phosphonooxycyclohexyl) dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+[2,3,5,6-tetrakis(oxidanyl)-4-phosphonooxy-cyclohexyl] dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+(2,3,5,6-tetrahydroxy-4-phosphonooxy-cyclohexyl) dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C6H14O12P2/c7-1-2(8)6(18-20(14,15)16)4(10)3(9)5(1)17-19(11,12)13/h1-10H,(H2,11,12,13)(H2,14,15,16)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+PELZSPZCXGTUMR-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-5.9
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+339.99605
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C6H14O12P2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+340.12
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1(C(C(C(C(C1OP(=O)(O)O)O)O)OP(=O)(O)O)O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1(C(C(C(C(C1OP(=O)(O)O)O)O)OP(=O)(O)O)O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+214
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+339.99605
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+20
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+4
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+17  5  3
+18  6  3
+19  7  3
+20  8  3
+
+$$$$

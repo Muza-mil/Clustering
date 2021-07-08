@@ -1,0 +1,154 @@
+82
+     RDKit          2D
+
+ 21 21  0  0  1  0  0  0  0  0999 V2000
+    4.1626   -0.4508    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2025   -1.9460    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9589   -1.3458    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5515   -3.1359    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0622    3.7190    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5185    3.4189    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2676    0.7529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3663    0.4443    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0576   -1.6545    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1297    0.7338    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5490    1.0339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3782   -1.6459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9988   -1.0510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5819   -0.7509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1720    0.4390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0317    1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4087    0.7391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1416    2.8240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5794   -1.3511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7527    0.1389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7831   -2.2461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  7  1  0
+  1  8  1  0
+  1  9  2  0
+  2 13  1  0
+  2 19  1  0
+  3 14  1  0
+  4 12  1  0
+  5 18  1  0
+  6 18  2  0
+ 10 20  1  0
+ 11 20  2  0
+ 12 13  1  0
+ 12 14  1  0
+ 13 15  1  0
+ 14 17  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 16 18  1  0
+ 19 20  1  0
+ 19 21  2  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+82
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+532
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+10
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+5
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+6
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBwPAIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAGgAACCAADBSggAIACAAABxCIQiDSCIIACAAgAAAACAFAAEgBFBIAAQQCUAAFwAALEYPK7CTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+5-(1-carboxyvinyloxy)-4-hydroxy-3-phosphonooxy-cyclohexene-1-carboxylic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+5-(1-carboxyethenoxy)-4-hydroxy-3-phosphonooxy-1-cyclohexenecarboxylic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+5-(1-carboxyethenoxy)-4-hydroxy-3-phosphonooxycyclohexene-1-carboxylic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+5-(1-carboxyethenoxy)-4-hydroxy-3-phosphonooxycyclohexene-1-carboxylic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+4-oxidanyl-5-(3-oxidanyl-3-oxidanylidene-prop-1-en-2-yl)oxy-3-phosphonooxy-cyclohexene-1-carboxylic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+5-(1-carboxyvinyloxy)-4-hydroxy-3-phosphonooxy-cyclohexene-1-carboxylic acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C10H13O10P/c1-4(9(12)13)19-6-2-5(10(14)15)3-7(8(6)11)20-21(16,17)18/h3,6-8,11H,1-2H2,(H,12,13)(H,14,15)(H2,16,17,18)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+QUTYKIXIUDQOLK-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-1.8
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+324.024634
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C10H13O10P
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+324.18
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C=C(C(=O)O)OC1CC(=CC(C1O)OP(=O)(O)O)C(=O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C=C(C(=O)O)OC1CC(=CC(C1O)OP(=O)(O)O)C(=O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+171
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+324.024634
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+21
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+3
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+13  2  3
+14  3  3
+12  4  3
+
+$$$$

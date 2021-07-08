@@ -1,0 +1,139 @@
+837
+     RDKit          2D
+
+ 14 15  0  0  1  0  0  0  0  0999 V2000
+    4.3799   -1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0755    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0755   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3799    1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2482   -1.2135    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1784    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1299    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1784   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2482    1.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4774    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4774   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7765    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7765   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6299    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0
+  2 12  2  0
+  3 13  2  0
+  4 14  2  0
+  5  7  1  0
+  5  8  1  0
+  6  8  1  0
+  6  9  2  0
+  6 10  1  0
+  7  9  1  0
+  7 14  1  0
+  8 11  2  0
+ 10 12  1  0
+ 11 13  1  0
+ 12 13  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+837
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+405
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+5
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADcYByOAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAEAAAAAAHgAQCAAADCzBgAQACALAAgCIAqTSSACAAAAgAgAACIGIAEgKABIAgSAEQAAA0ACYgUMcAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+5,6-dioxo-2,4-dihydro-1H-indole-2-carboxylic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+5,6-dioxo-2,4-dihydro-1H-indole-2-carboxylic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+5,6-dioxo-2,4-dihydro-1<I>H</I>-indole-2-carboxylic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+5,6-dioxo-2,4-dihydro-1H-indole-2-carboxylic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+5,6-bis(oxidanylidene)-2,4-dihydro-1H-indole-2-carboxylic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+5,6-diketo-2,4-dihydro-1H-indole-2-carboxylic acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C9H7NO4/c11-7-2-4-1-6(9(13)14)10-5(4)3-8(7)12/h1,3,6,10H,2H2,(H,13,14)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+CKZOQLKEDKSKJR-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-0.8
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+193.037508
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C9H7NO4
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+193.16
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1C2=CC(NC2=CC(=O)C1=O)C(=O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1C2=CC(NC2=CC(=O)C1=O)C(=O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+83.5
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+193.037508
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+14
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+7  14  3
+
+$$$$

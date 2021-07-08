@@ -1,0 +1,196 @@
+315
+     RDKit          2D
+
+ 36 37  0  0  1  0  0  0  0  0999 V2000
+    0.2640    1.6402    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7028    0.3145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2218   -3.2733    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4823   -3.1350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7090    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1809    2.0428    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3944   -1.1073    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5869    2.2007    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0708    2.8481    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9106   -1.7547    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1386    0.1952    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2651   -2.4260    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6667    3.0851    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.4267   -2.4021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.3166   -1.5968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6192    0.9059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3582    0.0086    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9202   -0.4233    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5752    1.5794    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0513   -2.0235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5499   -1.9599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5277   -0.6178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9526   -0.5149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0828   -0.2152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7682    0.3454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2132    0.7480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6076    1.4878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6970    1.3954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5145   -0.9469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2843   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2521    0.9928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0133    2.0113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.7293    0.1006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1696    1.0558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.8005   -0.9494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.2454   -0.5468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  1  6  1  0
+  1 11  1  0
+  1 13  2  0
+  2 22  1  0
+  2 23  1  0
+  3 20  1  0
+  4 21  1  0
+  5 24  1  0
+  6 31  1  0
+  7 25  1  0
+  8 26  1  0
+  9 28  1  0
+ 10 30  1  0
+ 12 29  2  0
+ 14 35  2  0
+ 15 36  1  0
+ 16 36  2  0
+ 17 23  1  0
+ 17 27  1  0
+ 17 29  1  0
+ 18 29  1  0
+ 18 34  2  0
+ 19 34  1  0
+ 20 21  1  0
+ 20 22  1  0
+ 21 23  1  0
+ 22 24  1  0
+ 25 26  1  0
+ 25 28  1  0
+ 26 30  1  0
+ 27 32  2  0
+ 28 31  1  0
+ 30 33  1  0
+ 32 34  1  0
+ 33 35  1  0
+ 35 36  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+315
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+944
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+15
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+9
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+13
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADceB7PAIAAAAAAAAAAAAAAAAAASAAAAAgAAAAAAAAAAAAAAAAHgAQCCAACBThgAYBCANABxCoQKL2fIKAAAEAAgAIAAFYABCDEBYAgAAOQAAHNgITAAH6/KbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+8-[[5-(4-amino-2-oxo-pyrimidin-1-yl)-3,4-dihydroxy-tetrahydrofuran-2-yl]methoxy-hydroxy-phosphoryl]oxy-4,5,6,7-tetrahydroxy-2-oxo-octanoic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+8-[[5-(4-amino-2-oxo-1-pyrimidinyl)-3,4-dihydroxy-2-oxolanyl]methoxy-hydroxyphosphoryl]oxy-4,5,6,7-tetrahydroxy-2-oxooctanoic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+8-[[5-(4-amino-2-oxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-4,5,6,7-tetrahydroxy-2-oxooctanoic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+8-[[5-(4-amino-2-oxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-4,5,6,7-tetrahydroxy-2-oxooctanoic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+8-[[5-(4-azanyl-2-oxidanylidene-pyrimidin-1-yl)-3,4-bis(oxidanyl)oxolan-2-yl]methoxy-oxidanyl-phosphoryl]oxy-4,5,6,7-tetrakis(oxidanyl)-2-oxidanylidene-octanoic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+8-[[5-(4-amino-2-keto-pyrimidin-1-yl)-3,4-dihydroxy-tetrahydrofuran-2-yl]methoxy-hydroxy-phosphoryl]oxy-4,5,6,7-tetrahydroxy-2-keto-caprylic acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C17H26N3O15P/c18-10-1-2-20(17(30)19-10)15-14(27)13(26)9(35-15)5-34-36(31,32)33-4-8(23)12(25)11(24)6(21)3-7(22)16(28)29/h1-2,6,8-9,11-15,21,23-27H,3-5H2,(H,28,29)(H,31,32)(H2,18,19,30)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+KSWWYTQOPBWHCP-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>  (1) 
+-6
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+543.110154
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C17H26N3O15P
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+543.4
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OCC(C(C(C(CC(=O)C(=O)O)O)O)O)O)O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OCC(C(C(C(CC(=O)C(=O)O)O)O)O)O)O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+299
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+543.110154
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+36
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+8
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+30  10  3
+23  17  3
+17  27  8
+17  29  8
+18  29  8
+18  34  8
+22  24  3
+27  32  8
+20  3  3
+32  34  8
+21  4  3
+25  7  3
+26  8  3
+28  9  3
+
+$$$$

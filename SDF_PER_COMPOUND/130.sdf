@@ -1,0 +1,139 @@
+130
+     RDKit          2D
+
+ 15 14  0  0  1  0  0  0  0  0999 V2000
+    0.4721    1.0047    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2525   -2.5421    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3230   -2.8835    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2160    1.2981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1592    1.8962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8148    2.2903    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1332    1.5021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7918   -1.0735    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6692   -0.4823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8178   -0.6794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1562   -0.2852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8662   -1.9693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7320    0.5099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7290    1.1011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2190    0.3128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2 12  1  0
+  3 12  2  0
+  4 14  1  0
+  5 13  2  0
+  6 14  2  0
+  7 15  1  0
+  8 15  2  0
+  9 10  1  0
+  9 11  1  0
+  9 12  1  0
+ 10 13  1  0
+ 11 14  1  0
+ 13 15  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+130
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+319
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+8
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+6
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBgPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACAAADESAgAAACAAAAgAIAICQCAIAAAAAAAAAAAFAAAABABYAAAAAQAAFIAABAAHLbgAuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+2-hydroxy-4-oxo-butane-1,2,4-tricarboxylic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+2-hydroxy-4-oxobutane-1,2,4-tricarboxylic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+2-hydroxy-4-oxobutane-1,2,4-tricarboxylic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+2-hydroxy-4-oxobutane-1,2,4-tricarboxylic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+2-oxidanyl-4-oxidanylidene-butane-1,2,4-tricarboxylic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+2-hydroxy-4-keto-butane-1,2,4-tricarboxylic acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C7H8O8/c8-3(5(11)12)1-7(15,6(13)14)2-4(9)10/h15H,1-2H2,(H,9,10)(H,11,12)(H,13,14)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+RQMCNDRMPZBEOD-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>  (1) 
+-1.8
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+220.021917
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C7H8O8
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+220.13
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C(C(=O)C(=O)O)C(CC(=O)O)(C(=O)O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C(C(=O)C(=O)O)C(CC(=O)O)(C(=O)O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+149
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+220.021917
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+15
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+9  1  3
+
+$$$$

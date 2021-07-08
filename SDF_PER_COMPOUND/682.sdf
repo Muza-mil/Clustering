@@ -1,0 +1,138 @@
+682
+     RDKit          2D
+
+ 14 14  0  0  1  0  0  0  0  0999 V2000
+   -4.6259    1.1585    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2266   -1.4087    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7850    2.3113    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6665   -0.0253    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6615    1.6196    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2622   -0.9476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2030    0.2207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2200   -0.7170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7614    0.6819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1607   -1.8853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6851   -0.0098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2436    0.9124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6429   -1.6548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1843   -0.2559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  2 11  2  0
+  3 12  2  0
+  4 14  2  0
+  5  7  1  0
+  6  7  1  0
+  6  8  1  0
+  7 11  1  0
+  8  9  2  0
+  8 10  1  0
+  9 12  1  0
+ 10 13  2  0
+ 12 14  1  0
+ 13 14  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+682
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+354
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+5
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccByOAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAHgAQCAAADCzBgAQACABAAgCIAqDSCAAAAAAgAAAICIGAAEgKABIAgQAAQAAEkAAIgYKIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+2-amino-3-(3,4-dioxocyclohexa-1,5-dien-1-yl)propanoic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+2-amino-3-(3,4-dioxo-1-cyclohexa-1,5-dienyl)propanoic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+2-amino-3-(3,4-dioxocyclohexa-1,5-dien-1-yl)propanoic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+2-amino-3-(3,4-dioxocyclohexa-1,5-dien-1-yl)propanoic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+2-azanyl-3-[3,4-bis(oxidanylidene)cyclohexa-1,5-dien-1-yl]propanoic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+2-amino-3-(3,4-diketocyclohexa-1,5-dien-1-yl)propionic acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C9H9NO4/c10-6(9(13)14)3-5-1-2-7(11)8(12)4-5/h1-2,4,6H,3,10H2,(H,13,14)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+AHMIDUVKSGCHAU-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-3.4
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+195.053158
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C9H9NO4
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+195.17
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=CC(=O)C(=O)C=C1CC(C(=O)O)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=CC(=O)C(=O)C=C1CC(C(=O)O)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+97.5
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+195.053158
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+14
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+7  5  3
+
+$$$$

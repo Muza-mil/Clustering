@@ -1,0 +1,207 @@
+198
+     RDKit          2D
+
+ 38 41  0  0  1  0  0  0  0  0999 V2000
+   -4.5939    2.5751    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0261    2.9709    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2601    1.2135    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1368   -0.3899    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4322   -2.2106    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6903   -2.3948    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6280    2.4276    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7635    1.6359    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.6456   -3.2074    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8493   -4.2941    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.1027   -0.2424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4243    3.5142    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3405   -1.4766    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6547    1.4054    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4828    4.3690    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5330    3.7447    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5694    1.5727    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8724    0.6470    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9133    1.9604    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1065   -1.8001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7015   -1.6748    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8906    0.6352    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3809   -1.0487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8786   -1.1334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9987    0.4017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4219    0.2647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4760   -2.2682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0779   -2.8116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7045   -0.7858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9083   -1.8724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3994    0.9451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5349    0.1534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5101   -2.4157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0342   -0.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4157    2.0451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2955    0.5099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6292   -0.1766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4402   -2.4866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  1 12  1  0
+  1 14  1  0
+  1 16  2  0
+  2  7  1  0
+  2 12  1  0
+  2 15  1  0
+  2 17  2  0
+  3 25  1  0
+  3 26  1  0
+  4 30  1  0
+  4 32  1  0
+  5 23  1  0
+  6 24  1  0
+  7 31  1  0
+  8 32  1  0
+  9 27  1  0
+ 10 28  1  0
+ 11 29  1  0
+ 13 33  1  0
+ 18 26  1  0
+ 18 34  1  0
+ 18 35  1  0
+ 19 35  2  0
+ 19 36  1  0
+ 20 34  1  0
+ 20 38  2  0
+ 21 37  2  0
+ 21 38  1  0
+ 22 37  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 24 26  1  0
+ 25 31  1  0
+ 27 28  1  0
+ 27 29  1  0
+ 28 30  1  0
+ 29 32  1  0
+ 30 33  1  0
+ 34 36  2  0
+ 36 37  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+198
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+925
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+19
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+9
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+9
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADceB7vAMAAAAAAAAAAAAAAAAAAWJAAAAsSAAAAAAAAFgB+AAAHgAQCCAACBzxlwcF+L9MFxCgQQZhZICAgC0REKABUCAoVBCTWAJAyEAeRAgPAALXACHwcAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+[[5-(6-aminopurin-9-yl)-3,4-dihydroxy-tetrahydrofuran-2-yl]methoxy-hydroxy-phosphoryl] [3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydropyran-2-yl] hydrogen phosphate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+[[5-(6-aminopurin-9-yl)-3,4-dihydroxy-2-oxolanyl]methoxy-hydroxyphosphoryl] [3,4,5-trihydroxy-6-(hydroxymethyl)-2-oxanyl] hydrogen phosphate
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+[[5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] [3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] hydrogen phosphate
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+[[5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] [3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] hydrogen phosphate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+[[5-(6-aminopurin-9-yl)-3,4-bis(oxidanyl)oxolan-2-yl]methoxy-oxidanyl-phosphoryl] [6-(hydroxymethyl)-3,4,5-tris(oxidanyl)oxan-2-yl] hydrogen phosphate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+[(5-adenin-9-yl-3,4-dihydroxy-tetrahydrofuran-2-yl)methoxy-hydroxy-phosphoryl] (3,4,5-trihydroxy-6-methylol-tetrahydropyran-2-yl) hydrogen phosphate
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C16H25N5O15P2/c17-13-7-14(19-3-18-13)21(4-20-7)15-11(26)9(24)6(33-15)2-32-37(28,29)36-38(30,31)35-16-12(27)10(25)8(23)5(1-22)34-16/h3-6,8-12,15-16,22-27H,1-2H2,(H,28,29)(H,30,31)(H2,17,18,19)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+WFPZSXYXPSUOPY-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>  (1) 
+-6.2
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+589.082239
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C16H25N5O15P2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+589.3
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OC4C(C(C(C(O4)CO)O)O)O)O)O)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OC4C(C(C(C(O4)CO)O)O)O)O)O)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+312
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+589.082239
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+38
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+9
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+28  10  3
+29  11  3
+26  18  3
+18  34  8
+18  35  8
+19  35  8
+19  36  8
+20  34  8
+20  38  8
+21  37  8
+21  38  8
+25  31  3
+30  33  3
+34  36  8
+36  37  8
+23  5  3
+24  6  3
+32  8  3
+27  9  3
+
+$$$$

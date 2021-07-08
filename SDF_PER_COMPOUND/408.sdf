@@ -1,0 +1,143 @@
+408
+     RDKit          2D
+
+ 13 14  0  0  1  0  0  0  0  0999 V2000
+   -4.2590   -0.6869    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5862   -0.6598    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9831   -1.4225    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5363    0.4116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2308    1.7411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7099    1.4914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9295    0.0076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9475    0.1919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3365   -2.1389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8796    1.3672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4993   -1.2029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3635    1.1476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9152   -0.2473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0
+  2  4  1  0
+  2  7  1  0
+  2  9  1  0
+  3 11  2  0
+  3 13  1  0
+  4  5  1  0
+  4  8  1  0
+  5  6  1  0
+  6  7  1  0
+  8 10  2  0
+  8 11  1  0
+ 10 12  1  0
+ 12 13  2  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+408
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+205
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBzIAAAAAAAAAAAAAAAAAAAAWAAAAAsAAAAAAAAAAABgAAAHgAAAAAADCjBmgQ+gJMIEACoAjF3VACCgCAxAiAI2CE4ZJgIIPLA0ZGEIAhghgDIyAcciICOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+1-methyl-5-(3-pyridyl)pyrrolidin-2-one
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+1-methyl-5-(3-pyridinyl)-2-pyrrolidinone
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+1-methyl-5-pyridin-3-ylpyrrolidin-2-one
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+1-methyl-5-pyridin-3-ylpyrrolidin-2-one
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+1-methyl-5-pyridin-3-yl-pyrrolidin-2-one
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+cotinine
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C10H12N2O/c1-12-9(4-5-10(12)13)8-3-2-6-11-7-8/h2-3,6-7,9H,4-5H2,1H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+UIKROCXWUNQSPJ-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>  (1) 
+-0.3
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+176.094963
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C10H12N2O
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+176.21
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+CN1C(CCC1=O)C2=CN=CC=C2
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+CN1C(CCC1=O)C2=CN=CC=C2
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+33.2
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+176.094963
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+13
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+10  12  8
+12  13  8
+3  11  8
+3  13  8
+4  8  3
+8  10  8
+8  11  8
+
+$$$$

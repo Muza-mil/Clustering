@@ -1,0 +1,184 @@
+580
+     RDKit          2D
+
+ 32 33  0  0  1  0  0  0  0  0999 V2000
+   -7.1173   -0.8728    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8188   -0.7380    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6274    1.7310    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4357   -3.6739    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0529    1.2641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2866   -4.6076    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9039    0.3304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5208   -2.6055    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6491    3.1316    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4150    5.1337    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8615    3.7332    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7662    2.1305    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8089   -2.3407    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0322    0.1957    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2663   -1.8065    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2443   -1.2049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5527   -2.6728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3613   -0.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9782   -3.1397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7868   -0.6707    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9152    1.1968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0953   -2.1386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5103    0.7299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2236    2.6647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1065    3.6658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3190    3.1989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4360    4.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4577    0.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5748   -0.3386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0003    0.1283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3834   -2.8076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0750   -4.2755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 30  1  0
+  2 16  1  0
+  2 23  1  0
+  3 23  1  0
+  3 26  1  0
+  4 17  1  0
+  5 18  1  0
+  6 19  1  0
+  7 20  1  0
+  8 22  1  0
+  9 24  1  0
+ 10 25  1  0
+ 11 27  1  0
+ 12 28  2  0
+ 13 31  2  0
+ 14 21  1  0
+ 14 28  1  0
+ 15 29  1  0
+ 15 31  1  0
+ 16 17  1  0
+ 16 18  1  0
+ 17 19  1  0
+ 18 20  1  0
+ 19 22  1  0
+ 20 22  1  0
+ 21 23  1  0
+ 21 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 31 32  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+580
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+643
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+13
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+11
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+7
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADceB7PABAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAAAAAAAHgQQCAAACDz1wAeCCALABgQIAAEQEAAAAAAAAAAAAIGIAAATUAIAgCA3QAAHFgCXAAHwcA8AAAAAAAAAAAACAAAQAACAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+2-acetamido-N-[4,5-dihydroxy-6-(hydroxymethyl)-2-(2,3,4,5,6-pentahydroxycyclohexoxy)tetrahydropyran-3-yl]-3-sulfanyl-propanamide
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+2-acetamido-N-[4,5-dihydroxy-6-(hydroxymethyl)-2-(2,3,4,5,6-pentahydroxycyclohexyl)oxy-3-oxanyl]-3-mercaptopropanamide
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+2-acetamido-<I>N</I>-[4,5-dihydroxy-6-(hydroxymethyl)-2-(2,3,4,5,6-pentahydroxycyclohexyl)oxyoxan-3-yl]-3-sulfanylpropanamide
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+2-acetamido-N-[4,5-dihydroxy-6-(hydroxymethyl)-2-(2,3,4,5,6-pentahydroxycyclohexyl)oxyoxan-3-yl]-3-sulfanylpropanamide
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+2-acetamido-N-[6-(hydroxymethyl)-4,5-bis(oxidanyl)-2-[2,3,4,5,6-pentakis(oxidanyl)cyclohexyl]oxy-oxan-3-yl]-3-sulfanyl-propanamide
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+2-acetamido-N-[4,5-dihydroxy-6-methylol-2-(2,3,4,5,6-pentahydroxycyclohexoxy)tetrahydropyran-3-yl]-3-mercapto-propionamide
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C17H30N2O12S/c1-4(21)18-5(3-32)16(29)19-7-9(23)8(22)6(2-20)30-17(7)31-15-13(27)11(25)10(24)12(26)14(15)28/h5-15,17,20,22-28,32H,2-3H2,1H3,(H,18,21)(H,19,29)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+MQBCDKMPXVYCGO-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-5.6
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+486.151946
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C17H30N2O12S
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+486.5
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+CC(=O)NC(CS)C(=O)NC1C(C(C(OC1OC2C(C(C(C(C2O)O)O)O)O)CO)O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+CC(=O)NC(CS)C(=O)NC1C(C(C(OC1OC2C(C(C(C(C2O)O)O)O)O)CO)O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+240
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+486.151946
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+32
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+10
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+25  10  3
+21  14  3
+23  2  3
+26  27  3
+29  30  3
+17  4  3
+18  5  3
+19  6  3
+20  7  3
+24  9  3
+
+$$$$

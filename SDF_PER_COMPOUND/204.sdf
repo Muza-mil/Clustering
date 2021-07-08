@@ -1,0 +1,132 @@
+204
+     RDKit          2D
+
+ 11 11  0  0  1  0  0  0  0  0999 V2000
+   -1.0731    2.8395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9597   -2.0922    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1406   -1.7201    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5191   -1.0022    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4654    0.7887    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4070    0.5231    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9757    0.1191    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0169    0.3988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1499    1.3415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0171   -0.9254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5272   -0.2708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0
+  2 10  2  0
+  3 11  2  0
+  4  8  1  0
+  4 10  1  0
+  5  8  1  0
+  5 11  1  0
+  6  9  1  0
+  6 10  1  0
+  7 11  1  0
+  8  9  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+204
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+225
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADcYBjsAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAAAAAAAHgAQAAAAAADBgAQBAALAAAAIAAEQEAAAAAAAAAAAAICIAACAQAAAACAQAAAIFyIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+(2,5-dioxoimidazolidin-4-yl)urea
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+(2,5-dioxo-4-imidazolidinyl)urea
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+(2,5-dioxoimidazolidin-4-yl)urea
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+(2,5-dioxoimidazolidin-4-yl)urea
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+1-[2,5-bis(oxidanylidene)imidazolidin-4-yl]urea
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+allantoin
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C4H6N4O3/c5-3(10)6-1-2(9)8-4(11)7-1/h1H,(H3,5,6,10)(H2,7,8,9,11)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+POJWUDADGALRAB-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-2.2
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+158.04399
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C4H6N4O3
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+158.12
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1(C(=O)NC(=O)N1)NC(=O)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1(C(=O)NC(=O)N1)NC(=O)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+113
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+158.04399
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+11
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+8  5  3
+
+$$$$

@@ -1,0 +1,142 @@
+519
+     RDKit          2D
+
+ 16 15  0  0  1  0  0  0  0  0999 V2000
+   -4.4089    0.0542    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2692   -1.5747    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6231    2.0364    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0451   -0.5703    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3174   -1.8192    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9373    1.0319    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8557   -1.3303    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7845    1.4180    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7727    0.6786    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0334   -1.3097    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1280   -0.0814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7642    0.5431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3507    0.7875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4585   -0.3258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8224    0.2986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7146    0.1630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  8  1  0
+  1  9  1  0
+  1 10  2  0
+  2 11  1  0
+  3 12  1  0
+  4 15  1  0
+  5 14  2  0
+  6 16  1  0
+  7 16  2  0
+ 11 12  1  0
+ 11 13  1  0
+ 12 14  1  0
+ 13 16  1  0
+ 14 15  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+519
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+307
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+9
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+5
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+7
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBgPAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACCAACBSggAIACAAAAxAIQICQCIIAAAAAAAAAAAFAAAABEBYAAAAAQAAFIAABAAHKTgAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+3,4-dihydroxy-5-oxo-6-phosphonooxy-hexanoic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+3,4-dihydroxy-5-oxo-6-phosphonooxyhexanoic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+3,4-dihydroxy-5-oxo-6-phosphonooxyhexanoic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+3,4-dihydroxy-5-oxo-6-phosphonooxyhexanoic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+3,4-bis(oxidanyl)-5-oxidanylidene-6-phosphonooxy-hexanoic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+3,4-dihydroxy-5-keto-6-phosphonooxy-hexanoic acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C6H11O9P/c7-3(1-5(9)10)6(11)4(8)2-15-16(12,13)14/h3,6-7,11H,1-2H2,(H,9,10)(H2,12,13,14)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+OLUPOJQIFXQXIT-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-3.5
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+258.014069
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C6H11O9P
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+258.12
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C(C(C(C(=O)COP(=O)(O)O)O)O)C(=O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C(C(C(C(=O)COP(=O)(O)O)O)O)C(=O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+162
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+258.014069
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+16
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+2
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+11  2  3
+12  3  3
+
+$$$$

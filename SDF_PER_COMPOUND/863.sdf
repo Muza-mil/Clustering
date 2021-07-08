@@ -1,0 +1,134 @@
+863
+     RDKit          2D
+
+ 12 12  0  0  1  0  0  0  0  0999 V2000
+    3.5748   -1.1591    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7617   -0.2419    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4572   -1.3656    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3328    1.0805    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3357   -0.3137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9235   -0.8192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7568    1.1260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2205    0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6327   -0.3545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2562    1.1704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7766    0.6158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1889    0.1102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  5  1  0
+  2 10  1  0
+  3 12  2  0
+  4 12  1  0
+  5  6  1  0
+  5  7  1  0
+  6  8  1  0
+  7 10  1  0
+  8  9  1  0
+  9 11  1  0
+ 11 12  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+863
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+152
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+5
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccByIABgAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAHgQQAAAACACFwACAAABAAAAIAAEQEAAAAAAAAAAAAAEAAAAAABIAgAAAAAAAEAAAAAEYiICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+5-(dithiolan-3-yl)pentanamide
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+5-(3-dithiolanyl)pentanamide
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+5-(dithiolan-3-yl)pentanamide
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+5-(dithiolan-3-yl)pentanamide
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+5-(1,2-dithiolan-3-yl)pentanamide
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+5-(dithiolan-3-yl)valeramide
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C8H15NOS2/c9-8(10)4-2-1-3-7-5-6-11-12-7/h7H,1-6H2,(H2,9,10)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+FCCDDURTIIUXBY-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+1
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+205.059506
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C8H15NOS2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+205.3
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1CSSC1CCCCC(=O)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1CSSC1CCCCC(=O)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+93.7
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+205.059506
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+12
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+5  6  3
+
+$$$$

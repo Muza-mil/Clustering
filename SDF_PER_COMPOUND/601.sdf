@@ -1,0 +1,132 @@
+601
+     RDKit          2D
+
+ 11 10  0  0  1  0  0  0  0  0999 V2000
+    0.4244   -1.4895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0599   -1.7064    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4740   -0.7463    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0487    1.0813    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0172    1.5150    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4355    0.8644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4629    0.1212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9787   -0.0957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3655    2.0413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3929   -1.0557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9898   -0.5295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0
+  2 11  1  0
+  3 11  2  0
+  4  6  1  0
+  4  8  1  0
+  5  7  1  0
+  6  9  1  0
+  6 11  1  0
+  7  8  1  0
+  7 10  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+601
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+169
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBjMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACCjBgAQCCALAAgAIAAGQGAAAAAAAAAAAAIGIAAACQAAAACAUQAAAFgCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+2-(2-aminopropanoylamino)propanoic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+2-[(2-amino-1-oxopropyl)amino]propanoic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+2-(2-aminopropanoylamino)propanoic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+2-(2-aminopropanoylamino)propanoic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+2-(2-azanylpropanoylamino)propanoic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+2-(alanylamino)propionic acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C6H12N2O3/c1-3(7)5(9)8-4(2)6(10)11/h3-4H,7H2,1-2H3,(H,8,9)(H,10,11)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+DEFJQIDDEAULHB-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-3.3
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+160.084792
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C6H12N2O3
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+160.17
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+CC(C(=O)NC(C)C(=O)O)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+CC(C(=O)NC(C)C(=O)O)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+92.4
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+160.084792
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+11
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+2
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+7  5  3
+6  9  3
+
+$$$$

@@ -1,0 +1,144 @@
+680
+     RDKit          2D
+
+ 17 16  0  0  1  0  0  0  0  0999 V2000
+    2.7081   -2.2094    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2035   -0.7936    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2923   -1.7141    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2128   -3.6253    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1240   -2.7048    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7418    2.8961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2680    2.6171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7203    1.7592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2274    1.2013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2371    4.3120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7012    0.9223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2250    0.3433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1965   -0.4935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6704   -0.7725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6489    0.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1657   -2.1883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1227    0.0855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  1  0
+  1  5  2  0
+  2 12  1  0
+  6  7  1  0
+  6  8  1  0
+  6 10  1  0
+  7  9  1  0
+  8 12  1  0
+  9 11  1  0
+ 11 13  1  0
+ 13 14  2  3
+ 14 15  1  0
+ 14 16  1  0
+ 15 17  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+680
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+270
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+9
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADceBwOAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACCAADQCggAICAAAAARCAQiBCAIAAAAAgAAAACAAAAAgAAAIAAQAAAAAEgAAIAAOAwCAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+3,8-dimethyldec-7-enyl dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+3,8-dimethyldec-7-enyl dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+3,8-dimethyldec-7-enyl dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+3,8-dimethyldec-7-enyl dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+3,8-dimethyldec-7-enyl dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+3,8-dimethyldec-7-enyl dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C12H25O4P/c1-4-11(2)7-5-6-8-12(3)9-10-16-17(13,14)15/h7,12H,4-6,8-10H2,1-3H3,(H2,13,14,15)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+CWKHQISAQICLMY-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+3.1
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+264.149046
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C12H25O4P
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+264.3
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+CCC(=CCCCC(C)CCOP(=O)(O)O)C
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+CCC(=CCCCC(C)CCOP(=O)(O)O)C
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+66.8
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+264.149046
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+17
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+13  14  1
+6  10  3
+
+$$$$

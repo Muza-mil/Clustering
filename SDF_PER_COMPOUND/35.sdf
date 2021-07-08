@@ -1,0 +1,132 @@
+35
+     RDKit          2D
+
+ 11 11  0  0  1  0  0  0  0  0999 V2000
+    0.7528   -1.1554    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2406   -0.9190    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7941    0.7678    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9079   -0.7436    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4652   -1.4647    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1127    0.0698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1962    0.8024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7045    1.4481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1982    1.3112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5296   -0.1518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4852    0.0352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0
+  2  6  1  0
+  2 10  1  0
+  3 11  1  0
+  4 10  2  0
+  5 11  2  0
+  6  7  1  0
+  6  8  1  0
+  7 11  1  0
+  8  9  2  0
+  9 10  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+35
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+235
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADcYBgOAAEAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAGgIACAAACAaAgAAACAAABgCIACDSCAAAAAAgAAAICAEAAkgABBQAIAACUAAFoAAIIYIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+2-(2-chloro-5-oxo-2-furyl)acetic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+2-(2-chloro-5-oxo-2-furanyl)acetic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+2-(2-chloro-5-oxofuran-2-yl)acetic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+2-(2-chloro-5-oxofuran-2-yl)acetic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+2-(2-chloranyl-5-oxidanylidene-furan-2-yl)ethanoic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+2-(2-chloro-5-keto-2-furyl)acetic acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C6H5ClO4/c7-6(3-4(8)9)2-1-5(10)11-6/h1-2H,3H2,(H,8,9)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+WGZZDRVKIXVYEI-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+0.3
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+175.987636
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C6H5ClO4
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+176.55
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=CC(OC1=O)(CC(=O)O)Cl
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=CC(OC1=O)(CC(=O)O)Cl
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+63.6
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+175.987636
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+11
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+6  1  3
+
+$$$$

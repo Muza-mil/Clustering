@@ -1,0 +1,138 @@
+155
+     RDKit          2D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    3.5936    1.0888    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3517    2.4018    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0955   -0.9492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9371   -1.5703    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1539    0.7772    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4782   -1.8090    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6198    1.5954    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3355   -0.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1572   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8162   -2.5671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0936    1.0981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6231    0.4744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  2 11  2  0
+  3 12  2  0
+  4  8  1  0
+  4 10  1  0
+  5  9  1  0
+  5 12  1  0
+  6  9  1  0
+  6 10  2  0
+  7 12  1  0
+  8  9  2  0
+  8 11  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+155
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+207
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADcYBjsAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAABgAAAHgAQCAAACAgBlgQFuBbJkgCoAQbxfAQAgC2XEKABUYGoWECCTAhACCAUQIAKBQJQEGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+4-ureido-1H-imidazole-5-carboxylic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+4-(carbamoylamino)-1H-imidazole-5-carboxylic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+4-(carbamoylamino)-1<I>H</I>-imidazole-5-carboxylic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+4-(carbamoylamino)-1H-imidazole-5-carboxylic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+4-(aminocarbonylamino)-1H-imidazole-5-carboxylic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+4-ureido-1H-imidazole-5-carboxylic acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C5H6N4O3/c6-5(12)9-3-2(4(10)11)7-1-8-3/h1H,(H,7,8)(H,10,11)(H3,6,9,12)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+PQSKWIHIUOGLHX-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-0.6
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+170.04399
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C5H6N4O3
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+170.13
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=NC(=C(N1)C(=O)O)NC(=O)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=NC(=C(N1)C(=O)O)NC(=O)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+121
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+170.04399
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+12
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+4  10  8
+4  8  8
+6  10  8
+6  9  8
+8  9  8
+
+$$$$

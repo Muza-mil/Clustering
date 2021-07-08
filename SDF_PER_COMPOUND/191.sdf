@@ -1,0 +1,163 @@
+191
+     RDKit          2D
+
+ 19 21  0  0  1  0  0  0  0  0999 V2000
+   -1.6638   -0.9027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0408    2.9604    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8545    1.3074    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6777   -3.3025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4008    0.7951    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4935    2.0245    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5344   -1.7001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1324   -1.6805    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4144    0.5792    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1863    1.4674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0640    0.4722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4796    0.7076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1567   -0.7572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1520   -1.8794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5230   -0.2002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0005    2.1700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8164    0.5596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1210   -0.1805    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8390   -2.4403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  1 13  1  0
+  2 10  1  0
+  3 12  1  0
+  4 14  1  0
+  5 11  1  0
+  5 15  1  0
+  5 16  1  0
+  6 16  2  0
+  6 17  1  0
+  7 15  1  0
+  7 19  2  0
+  8 18  2  0
+  8 19  1  0
+  9 18  1  0
+ 10 11  1  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 15 17  2  0
+ 17 18  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+191
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+335
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+8
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBzuAAAAAAAAAAAAAAAAAAAAWJAAAAsAAAAAAAAAFgB+AAAHgAQCAAACBzhlwYF8L9MFgCgAQZhZACAgC0REKABUCAoVBCDWAJAyEAeRAgPAALTACDwMAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+2-(6-aminopurin-9-yl)-5-(hydroxymethyl)tetrahydrofuran-3,4-diol
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+2-(6-aminopurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+2-(6-aminopurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+2-(6-aminopurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+2-(6-aminopurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+2-adenin-9-yl-5-methylol-tetrahydrofuran-3,4-diol
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C10H13N5O4/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(18)6(17)4(1-16)19-10/h2-4,6-7,10,16-18H,1H2,(H2,11,12,13)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+OIRDTQYFTABQOQ-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>  (1) 
+-1.1
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+267.096754
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C10H13N5O4
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+267.24
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+140
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+267.096754
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+19
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+4
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+13  14  3
+15  17  8
+17  18  8
+10  2  3
+12  3  3
+11  5  3
+5  15  8
+5  16  8
+6  16  8
+6  17  8
+7  15  8
+7  19  8
+8  18  8
+8  19  8
+
+$$$$

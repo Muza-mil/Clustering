@@ -1,0 +1,142 @@
+6
+     RDKit          2D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    2.6562    1.8715    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0872   -2.5924    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6603   -0.5247    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0714    0.4608    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0672   -1.9354    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2769   -1.1044    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8776   -0.4475    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0831   -0.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4942    0.1323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3004   -0.7759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2727    1.2918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3045    1.6202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0789    2.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  2  6  1  0
+  3  6  2  0
+  4  7  1  0
+  5  7  2  0
+  6  8  1  0
+  7  9  1  0
+  8 10  2  0
+  8 11  1  0
+  9 10  1  0
+  9 12  2  0
+ 11 13  2  0
+ 12 13  1  0
+M  CHG  4   2  -1   4  -1   6   1   7   1
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+6
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+224
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+0
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADcQBjOAAEAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHAIEAAAACAqBECAwwIAQQACBACRCQwCCAAAgBwAoiAAAZooIICKB09GAIABggAAIyAcQAAAAAABAAAQAABAAAIAACAAAIAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+1-chloro-2,4-dinitro-benzene
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+1-chloro-2,4-dinitrobenzene
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+1-chloro-2,4-dinitrobenzene
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+1-chloro-2,4-dinitrobenzene
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+1-chloranyl-2,4-dinitro-benzene
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+1-chloro-2,4-dinitro-benzene
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C6H3ClN2O4/c7-5-2-1-4(8(10)11)3-6(5)9(12)13/h1-3H
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+VYZAHLCBVHPDDF-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>  (1) 
+2.3
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+201.978134
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C6H3ClN2O4
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+202.55
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])Cl
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])Cl
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+91.6
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+201.978134
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+13
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+11  13  8
+12  13  8
+8  10  8
+8  11  8
+9  10  8
+9  12  8
+
+$$$$

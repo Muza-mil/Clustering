@@ -1,0 +1,135 @@
+345
+     RDKit          2D
+
+ 13 12  0  0  0  0  0  0  0  0999 V2000
+   -2.2610    1.5002    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8377   -2.4263    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6579   -2.2271    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0707    2.8976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9527    0.1692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8482   -0.8297    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0444    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6474   -1.0289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5429    0.3685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2346    1.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7624    1.5666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1459   -1.0954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3497   -0.8961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  2 12  1  0
+  3 13  1  0
+  4 11  2  0
+  5 12  2  0
+  6 13  2  0
+  7  8  1  0
+  7  9  2  3
+  7 11  1  0
+  8 12  1  0
+  9 10  1  0
+  9 13  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+345
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+287
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+6
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBgOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACAAADACAgAACCAAAAgCIAgDQCAAAAAAgAAAACAEAAEgABBAAAAAAUAAEQAAIEQJDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+but-2-ene-1,2,3-tricarboxylic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+2-butene-1,2,3-tricarboxylic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+but-2-ene-1,2,3-tricarboxylic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+but-2-ene-1,2,3-tricarboxylic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+but-2-ene-1,2,3-tricarboxylic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+but-2-ene-1,2,3-tricarboxylic acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C7H8O6/c1-3(6(10)11)4(7(12)13)2-5(8)9/h2H2,1H3,(H,8,9)(H,10,11)(H,12,13)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+NUZLRKBHOBPTQV-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-0.6
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+188.032088
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C7H8O6
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+188.13
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+CC(=C(CC(=O)O)C(=O)O)C(=O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+CC(=C(CC(=O)O)C(=O)O)C(=O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+112
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+188.032088
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+13
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+7  9  1
+
+$$$$

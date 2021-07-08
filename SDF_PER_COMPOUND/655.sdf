@@ -1,0 +1,124 @@
+655
+     RDKit          2D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+   -0.5519   -2.4222    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0274    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3948   -0.4755    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5519    0.3674    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3948   -1.5793    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6143    1.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0357    0.5869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0091    1.5602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5876    1.9816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  3  6  1  0
+  4  7  1  0
+  6  8  1  0
+  7  9  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+655
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+106
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBgMAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACCAAAACggAICAAAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+diethoxy-hydroxy-thioxo-lambda5-phosphane
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+diethoxy-hydroxy-sulfanylidenephosphorane
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+diethoxy-hydroxy-sulfanylidene-&lambda;<SUP>5</SUP>-phosphane
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+diethoxy-hydroxy-sulfanylidene-lambda5-phosphane
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+diethoxy-oxidanyl-sulfanylidene-lambda5-phosphane
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+diethoxy-hydroxy-thioxo-phosphorane
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C4H11O3PS/c1-3-6-8(5,9)7-4-2/h3-4H2,1-2H3,(H,5,9)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+PKUWKAXTAVNIJR-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+1.4
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+170.016652
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C4H11O3PS
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+170.17
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+CCOP(=S)(O)OCC
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+CCOP(=S)(O)OCC
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+70.8
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+170.016652
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+9
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+$$$$

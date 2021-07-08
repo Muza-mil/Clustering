@@ -1,0 +1,132 @@
+288
+     RDKit          2D
+
+ 11 10  0  0  1  0  0  0  0  0999 V2000
+    0.2445   -1.3622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1278    0.9116    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8425   -1.3463    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3627    0.1220    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0682    0.8799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2354    0.1378    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1206    1.4164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6048   -1.1725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6571   -0.6360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5298    0.8957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8334    0.1536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0
+  2 11  1  0
+  3 11  2  0
+  4  5  1  0
+  4  7  1  0
+  4  8  1  0
+  4  9  1  0
+  5  6  1  0
+  6 10  1  0
+ 10 11  1  0
+M  CHG  2   2  -1   4   1
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+288
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+134
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBiMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAACAAACBThgAYCCAMAAgAIAACQCAAAAAAAAAAAAAEIAAACEBQAgAAEQAAFIAAQAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+3-hydroxy-4-(trimethylammonio)butanoate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+3-hydroxy-4-(trimethylammonio)butanoate
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+3-hydroxy-4-(trimethylazaniumyl)butanoate
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+3-hydroxy-4-(trimethylazaniumyl)butanoate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+3-oxidanyl-4-(trimethylazaniumyl)butanoate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+3-hydroxy-4-(trimethylammonio)butyrate
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C7H15NO3/c1-8(2,3)5-6(9)4-7(10)11/h6,9H,4-5H2,1-3H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+PHIQHXFUZVPYII-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-0.2
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+161.105193
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C7H15NO3
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+161.2
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C[N+](C)(C)CC(CC(=O)[O-])O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C[N+](C)(C)CC(CC(=O)[O-])O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+60.4
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+161.105193
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+11
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+6  1  3
+
+$$$$

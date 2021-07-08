@@ -1,0 +1,125 @@
+133
+     RDKit          2D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    4.5084    0.1873    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0276    0.0118    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6676    0.6446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5604   -0.2168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6603    1.3718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3948   -1.3482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3875   -0.6210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9204    0.4160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1484   -0.4454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0
+  2  3  1  0
+  2  5  1  0
+  2  6  1  0
+  2  7  1  0
+  3  4  1  0
+  4  8  1  0
+  8  9  1  0
+M  CHG  1   2   1
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+133
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+83.4
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADceBiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAAAACADhgAYCAAMAAAAIAAgQgAAAAAAAAAAAAAEIAAAAABAAgAAEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+trimethyl(4-oxobutyl)ammonium
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+trimethyl(4-oxobutyl)ammonium
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+trimethyl(4-oxobutyl)azanium
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+trimethyl(4-oxobutyl)azanium
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+trimethyl(4-oxidanylidenebutyl)azanium
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+4-ketobutyl(trimethyl)ammonium
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C7H16NO/c1-8(2,3)6-4-5-7-9/h7H,4-6H2,1-3H3/q+1
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+OITBLCDWXSXNCN-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+0.1
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+130.123189
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C7H16NO+
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+130.21
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C[N+](C)(C)CCCC=O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C[N+](C)(C)CCCC=O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+17.1
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+130.123189
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+1
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+9
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+$$$$

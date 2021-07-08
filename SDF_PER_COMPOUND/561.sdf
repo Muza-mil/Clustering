@@ -1,0 +1,134 @@
+561
+     RDKit          2D
+
+ 14 13  0  0  0  0  0  0  0  0999 V2000
+    5.2074   -0.4120    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9011    0.1216    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5846   -0.5973    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2579    1.7447    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0484   -2.0351    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1822    1.4381    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2176    0.8405    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6200   -1.1949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6101   -0.4738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8909    0.3069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2936    0.2451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0127   -0.5356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3038    0.1833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4883    0.3687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  1 14  1  0
+  2  3  1  0
+  2  6  1  0
+  2  7  1  0
+  2  8  2  0
+  3 13  1  0
+  4 11  2  0
+  5 12  2  0
+  9 10  1  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+561
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+259
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+7
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+7
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBgOAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgQACCAACASkwAKCAAAAARgIQIAQAIIAAAAAABAAAAFAAAAAABYgAAAAAAAEIAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+(5-methylsulfanyl-2,3-dioxo-pentyl) dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+[5-(methylthio)-2,3-dioxopentyl] dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+(5-methylsulfanyl-2,3-dioxopentyl) dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+(5-methylsulfanyl-2,3-dioxopentyl) dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+[5-methylsulfanyl-2,3-bis(oxidanylidene)pentyl] dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+[2,3-diketo-5-(methylthio)pentyl] dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C6H11O6PS/c1-14-3-2-5(7)6(8)4-12-13(9,10)11/h2-4H2,1H3,(H2,9,10,11)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+HKEAOVFNWRDVAJ-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-1.6
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+242.001396
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C6H11O6PS
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+242.19
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+CSCCC(=O)C(=O)COP(=O)(O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+CSCCC(=O)C(=O)COP(=O)(O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+126
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+242.001396
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+14
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+$$$$

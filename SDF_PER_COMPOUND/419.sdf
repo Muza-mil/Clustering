@@ -1,0 +1,131 @@
+419
+     RDKit          2D
+
+ 11 10  0  0  0  0  0  0  0  0999 V2000
+    0.8169   -1.6084    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3717    1.1509    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3908   -1.2549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5350   -0.8292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5542    1.5766    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7977    0.7974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6128   -0.1223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7762    0.4440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1867    0.2312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9611   -0.4758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3501    0.0905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0
+  2  9  1  0
+  3  9  2  0
+  4 11  1  0
+  5 11  2  0
+  6  7  1  0
+  6  9  1  0
+  7  8  1  0
+  8 10  2  3
+ 10 11  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+419
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+215
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+5
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADcYBgOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACAAACASAgAAACAAAAgCIAKDSCAAAAAAgAAAICAEAAEgABBQIAAAAUAAEoAAIEYIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+4-oxohex-2-enedioic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+4-oxo-2-hexenedioic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+4-oxohex-2-enedioic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+4-oxohex-2-enedioic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+4-oxidanylidenehex-2-enedioic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+4-ketohex-2-enedioic acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C6H6O5/c7-4(3-6(10)11)1-2-5(8)9/h1-2H,3H2,(H,8,9)(H,10,11)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+SOXXPQLIZIPMIZ-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-0.6
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+158.021523
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C6H6O5
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+158.11
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C(C(=O)C=CC(=O)O)C(=O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C(C(=O)C=CC(=O)O)C(=O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+91.7
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+158.021523
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+11
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+8  10  1
+
+$$$$

@@ -1,0 +1,145 @@
+409
+     RDKit          2D
+
+ 13 14  0  0  1  0  0  0  0  0999 V2000
+   -2.5907   -1.8929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7964   -0.6205    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7786   -1.3479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7548    0.4590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4596    1.7831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1448    0.0365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9367    1.5220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7307    0.2508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6140   -1.5435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6537    1.4332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2932   -1.1397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1392    1.2251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7016   -0.1655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  4  1  0
+  2  6  1  0
+  2  9  1  0
+  3 11  2  0
+  3 13  1  0
+  4  5  1  0
+  4  8  1  0
+  5  7  1  0
+  6  7  1  0
+  8 10  2  0
+  8 11  1  0
+ 10 12  1  0
+ 12 13  2  0
+M  CHG  2   1  -1   2   1
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+409
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+186
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBzIAAAAAAAAAAAAAAAAAAAAWAAAAAsAAAAAAAAAAABgAAAHAAEAAAADCjBGgQ+gJMYEACgAjBnRACCgCAxAiAo2CA4ZJgIIOLA0ZGEIAhggADIyAcQgIAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+3-(1-methyl-1-oxido-pyrrolidin-1-ium-2-yl)pyridine
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+3-(1-methyl-1-oxido-2-pyrrolidin-1-iumyl)pyridine
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+3-(1-methyl-1-oxidopyrrolidin-1-ium-2-yl)pyridine
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+3-(1-methyl-1-oxidopyrrolidin-1-ium-2-yl)pyridine
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+3-(1-methyl-1-oxidanidyl-pyrrolidin-1-ium-2-yl)pyridine
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+3-(1-methyl-1-oxido-pyrrolidin-1-ium-2-yl)pyridine
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C10H14N2O/c1-12(13)7-3-5-10(12)9-4-2-6-11-8-9/h2,4,6,8,10H,3,5,7H2,1H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+RWFBQHICRCUQJJ-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+0.7
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+178.110613
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C10H14N2O
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+178.23
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C[N+]1(CCCC1C2=CN=CC=C2)[O-]
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C[N+]1(CCCC1C2=CN=CC=C2)[O-]
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+31
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+178.110613
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+13
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+2
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+2  1  3
+10  12  8
+12  13  8
+3  11  8
+3  13  8
+4  8  3
+8  10  8
+8  11  8
+
+$$$$

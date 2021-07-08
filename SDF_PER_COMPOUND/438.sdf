@@ -1,0 +1,142 @@
+438
+     RDKit          2D
+
+ 13 13  0  0  1  0  0  0  0  0999 V2000
+   -0.1920   -2.3597    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1640   -0.2314    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5978    1.8416    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9524   -0.6066    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0074   -0.8711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2042    0.0331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3741   -0.2867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5857   -0.5512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5588    1.2019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5709   -1.1910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7825    0.3530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9403    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1371    0.8820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  2 11  1  0
+  3 11  2  0
+  4 10  2  0
+  4 13  1  0
+  5  6  1  0
+  5  7  1  0
+  6  8  1  0
+  7  9  2  0
+  7 10  1  0
+  8 11  1  0
+  9 12  1  0
+ 12 13  2  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+438
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+172
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccByMAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAABgAAAHgAACAAADBThmgY8iJIIEgCoAjD3TACCgCAxAiAI2CE4bJgINvLAkZGEcAhmwAHI2Afa2LKOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+4-hydroxy-4-(3-pyridyl)butanoic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+4-hydroxy-4-(3-pyridinyl)butanoic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+4-hydroxy-4-pyridin-3-ylbutanoic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+4-hydroxy-4-pyridin-3-ylbutanoic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+4-oxidanyl-4-pyridin-3-yl-butanoic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+4-hydroxy-4-(3-pyridyl)butyric acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C9H11NO3/c11-8(3-4-9(12)13)7-2-1-5-10-6-7/h1-2,5-6,8,11H,3-4H2,(H,12,13)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+STZOZPPVGWNSMC-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-0.1
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+181.073893
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C9H11NO3
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+181.19
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=CC(=CN=C1)C(CCC(=O)O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=CC(=CN=C1)C(CCC(=O)O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+70.4
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+181.073893
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+13
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+5  1  3
+12  13  8
+4  10  8
+4  13  8
+7  10  8
+7  9  8
+9  12  8
+
+$$$$

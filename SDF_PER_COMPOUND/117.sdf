@@ -1,0 +1,132 @@
+117
+     RDKit          2D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    2.4558   -1.4051    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2531    1.1851    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6730   -1.5641    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2485    0.2821    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5115    2.3139    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1113   -0.2855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8624    0.8555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1314   -1.2133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6067   -0.1685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2  9  2  0
+  3  6  1  0
+  3  8  1  0
+  4  7  1  0
+  4  8  2  0
+  5  7  1  0
+  6  7  2  0
+  6  9  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+117
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+127
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADcYBjMAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAABgAAAHgAQCAAACAgBlgQFuBbJkgCoAQbxbAQAgC2XEKABUYGoWECCTAhACCAUQIAKAAJQEGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+4-amino-1H-imidazole-5-carboxylic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+4-amino-1H-imidazole-5-carboxylic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+4-amino-1<I>H</I>-imidazole-5-carboxylic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+4-amino-1H-imidazole-5-carboxylic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+4-azanyl-1H-imidazole-5-carboxylic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+4-amino-1H-imidazole-5-carboxylic acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C4H5N3O2/c5-3-2(4(8)9)6-1-7-3/h1H,5H2,(H,6,7)(H,8,9)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+PWCLNQLPYQVWAB-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+0.1
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+127.038176
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C4H5N3O2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+127.1
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=NC(=C(N1)C(=O)O)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=NC(=C(N1)C(=O)O)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+92
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+127.038176
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+9
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+3  6  8
+3  8  8
+4  7  8
+4  8  8
+6  7  8
+
+$$$$

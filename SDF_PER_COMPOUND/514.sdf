@@ -1,0 +1,198 @@
+514
+     RDKit          2D
+
+ 33 36  0  0  1  0  0  0  0  0999 V2000
+    2.0986    0.8788    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3310   -0.4770    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0869   -3.9386    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8256   -4.0547    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6564    0.4663    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5408    1.2913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6861    2.3210    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5111   -0.5633    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2552   -1.2066    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7757   -1.8368    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6600   -1.0119    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9843   -0.8010    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4098   -0.7147    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6011    1.9127    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8034    3.2910    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.0982    2.0728    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1626   -2.7572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6636   -2.8105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5751   -1.3150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1496   -1.4013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2926   -0.9889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3968    0.6412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2284   -1.6390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8959    0.6945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5992    2.0194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3044    3.2376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6191    0.2486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0612    0.6611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1396   -0.3816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4251    2.1163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5817    0.0308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8673    2.5287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9456    1.4860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  1  6  1  0
+  1  7  1  0
+  1  8  2  0
+  2 19  1  0
+  2 20  1  0
+  3 17  1  0
+  4 18  1  0
+  5 21  1  0
+  6 27  1  0
+  9 27  2  0
+ 10 29  1  0
+ 11 31  1  0
+ 12 19  1  0
+ 12 22  1  0
+ 12 23  1  0
+ 13 23  2  0
+ 13 24  1  0
+ 14 22  1  0
+ 14 26  2  0
+ 15 25  2  0
+ 15 26  1  0
+ 16 25  1  0
+ 17 18  1  0
+ 17 19  1  0
+ 18 20  1  0
+ 20 21  1  0
+ 22 24  2  0
+ 24 25  1  0
+ 27 28  1  0
+ 28 29  2  0
+ 28 30  1  0
+ 29 31  1  0
+ 30 32  2  0
+ 31 33  2  0
+ 32 33  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+514
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+766
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+14
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+6
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+7
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADceB7vAIAAAAAAAAAAAAAAAAAAWJAAAA8QAAAAAAAAFgB/AAAHgAQCCAADBzhnwY1/r9MFxCoQybzbICCgC01MKAJ2CEu3NiLfzbC3VKedUkv4BPbmaf6+DKOAAABAAAIQAAAAAIAABCAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+[[5-(6-aminopurin-9-yl)-3,4-dihydroxy-tetrahydrofuran-2-yl]methoxy-hydroxy-phosphoryl] 2,3-dihydroxybenzoate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+2,3-dihydroxybenzoic acid [[5-(6-aminopurin-9-yl)-3,4-dihydroxy-2-oxolanyl]methoxy-hydroxyphosphoryl] ester
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+[[5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] 2,3-dihydroxybenzoate
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+[[5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] 2,3-dihydroxybenzoate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+[[5-(6-aminopurin-9-yl)-3,4-bis(oxidanyl)oxolan-2-yl]methoxy-oxidanyl-phosphoryl] 2,3-bis(oxidanyl)benzoate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+2,3-dihydroxybenzoic acid [(5-adenin-9-yl-3,4-dihydroxy-tetrahydrofuran-2-yl)methoxy-hydroxy-phosphoryl] ester
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C17H18N5O10P/c18-14-10-15(20-5-19-14)22(6-21-10)16-13(26)12(25)9(31-16)4-30-33(28,29)32-17(27)7-2-1-3-8(23)11(7)24/h1-3,5-6,9,12-13,16,23-26H,4H2,(H,28,29)(H2,18,19,20)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+ULPVJDOMCRTJSN-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>  (1) 
+-1.4
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+483.079129
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C17H18N5O10P
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+483.3
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=CC(=C(C(=C1)O)O)C(=O)OP(=O)(O)OCC2C(C(C(O2)N3C=NC4=C(N=CN=C43)N)O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=CC(=C(C(=C1)O)O)C(=O)OP(=O)(O)OCC2C(C(C(O2)N3C=NC4=C(N=CN=C43)N)O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+233
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+483.079129
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+33
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+4
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+19  12  3
+12  22  8
+12  23  8
+13  23  8
+13  24  8
+14  22  8
+14  26  8
+15  25  8
+15  26  8
+20  21  3
+22  24  8
+24  25  8
+28  29  8
+28  30  8
+29  31  8
+17  3  3
+30  32  8
+31  33  8
+32  33  8
+18  4  3
+
+$$$$

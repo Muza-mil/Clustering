@@ -1,0 +1,141 @@
+434
+     RDKit          2D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+   -0.0170   -2.2698    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9531   -0.0597    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1559   -0.5854    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3804   -0.4221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9895    0.1394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5622    0.5018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1922   -0.7845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5832   -0.2230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1348    0.8642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7924    1.2623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7649   -1.1469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1834    1.8238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3651    0.8999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0
+  2  6  1  0
+  2  9  1  0
+  3 11  2  0
+  3 13  1  0
+  4  5  1  0
+  4  6  1  0
+  5  7  1  0
+  7  8  1  0
+  8 10  2  0
+  8 11  1  0
+ 10 12  1  0
+ 12 13  2  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+434
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+159
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+5
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBzIAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAABgAAAHgAQAAAADATBmgQ+gJLIEACoArB3RACCgCA1AiAI2KE4ZNgIIPrAlZGEIYhgkADIycccgYAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+4-(methylamino)-1-(3-pyridyl)butan-1-one
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+4-(methylamino)-1-(3-pyridinyl)-1-butanone
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+4-(methylamino)-1-pyridin-3-ylbutan-1-one
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+4-(methylamino)-1-pyridin-3-ylbutan-1-one
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+4-(methylamino)-1-pyridin-3-yl-butan-1-one
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+4-(methylamino)-1-(3-pyridyl)butan-1-one
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C10H14N2O/c1-11-6-3-5-10(13)9-4-2-7-12-8-9/h2,4,7-8,11H,3,5-6H2,1H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+SGDIDUFQYHRMPR-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>  (1) 
+0.3
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+178.110613
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C10H14N2O
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+178.23
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+CNCCCC(=O)C1=CN=CC=C1
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+CNCCCC(=O)C1=CN=CC=C1
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+42
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+178.110613
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+13
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+10  12  8
+12  13  8
+3  11  8
+3  13  8
+8  10  8
+8  11  8
+
+$$$$

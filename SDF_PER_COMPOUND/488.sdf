@@ -1,0 +1,154 @@
+488
+     RDKit          2D
+
+ 22 21  0  0  1  0  0  0  0  0999 V2000
+   -2.4725    1.7221    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4772    1.3354    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0567   -2.7587    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1525   -0.3048    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6511    1.8156    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.3693   -1.7452    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2837    0.6152    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9739    3.8424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3916   -1.0250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7042   -2.0384    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5581   -0.6383    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2028    0.0819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9712   -0.3983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9786   -0.7849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5655   -0.5449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6158   -0.1582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1098    1.0953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1953   -1.2651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7897    0.3220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7823   -1.5052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1451   -0.8784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6112    3.2157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0
+  1 22  1  0
+  2 16  2  0
+  3 18  2  0
+  4 19  1  0
+  5 19  2  0
+  6 21  1  0
+  7 21  2  0
+  8 22  2  0
+  9 13  1  0
+  9 16  1  0
+ 10 15  1  0
+ 11 18  1  0
+ 11 20  1  0
+ 12 14  1  0
+ 12 15  1  0
+ 13 17  1  0
+ 13 18  1  0
+ 14 16  1  0
+ 15 19  1  0
+ 20 21  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+488
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+443
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+9
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+5
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+11
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADceBzOABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgQQCAAACCjFwAaACALAAggIAAGQmAAAAAAAABAAAIGIAAACQBIggCAUQAAEFgCQAACcFwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+2-amino-5-[[2-(carboxymethylamino)-1-(formylsulfanylmethyl)-2-oxo-ethyl]amino]-5-oxo-pentanoic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+2-amino-5-[[1-(carboxymethylamino)-3-(formylthio)-1-oxopropan-2-yl]amino]-5-oxopentanoic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+2-amino-5-[[1-(carboxymethylamino)-3-formylsulfanyl-1-oxopropan-2-yl]amino]-5-oxopentanoic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+2-amino-5-[[1-(carboxymethylamino)-3-formylsulfanyl-1-oxopropan-2-yl]amino]-5-oxopentanoic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+2-azanyl-5-[[1-(2-hydroxy-2-oxoethylamino)-3-methanoylsulfanyl-1-oxidanylidene-propan-2-yl]amino]-5-oxidanylidene-pentanoic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+2-amino-5-[[2-(carboxymethylamino)-1-[(formylthio)methyl]-2-keto-ethyl]amino]-5-keto-valeric acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C11H17N3O7S/c12-6(11(20)21)1-2-8(16)14-7(4-22-5-15)10(19)13-3-9(17)18/h5-7H,1-4,12H2,(H,13,19)(H,14,16)(H,17,18)(H,20,21)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+FHXAGOICBFGEBF-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-4.3
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+335.078721
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C11H17N3O7S
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+335.34
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C(CC(=O)NC(CSC=O)C(=O)NCC(=O)O)C(C(=O)O)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C(CC(=O)NC(CSC=O)C(=O)NCC(=O)O)C(C(=O)O)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+201
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+335.078721
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+22
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+2
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+15  10  3
+13  17  3
+
+$$$$

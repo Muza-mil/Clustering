@@ -1,0 +1,141 @@
+435
+     RDKit          2D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+   -0.1920   -2.3597    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5978    1.8416    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9524   -0.6066    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1640   -0.2314    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2042    0.0331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5857   -0.5512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0074   -0.8711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3741   -0.2867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7825    0.3530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5588    1.2019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5709   -1.1910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9403    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1371    0.8820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0
+  2  9  2  0
+  3 11  2  0
+  3 13  1  0
+  4  9  1  0
+  5  6  1  0
+  5  7  1  0
+  6  9  1  0
+  7  8  1  0
+  8 10  2  0
+  8 11  1  0
+ 10 12  1  0
+ 12 13  2  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+435
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+204
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBzMAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAABgAAAHgAQAAAADATBmgQ8gJJIEACoArF3VACCgCA1AiAI2CE4ZNgIIPrAlZGEIYhgkADIyccdiYCOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+4-oxo-4-(3-pyridyl)butanamide
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+4-oxo-4-(3-pyridinyl)butanamide
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+4-oxo-4-pyridin-3-ylbutanamide
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+4-oxo-4-pyridin-3-ylbutanamide
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+4-oxidanylidene-4-pyridin-3-yl-butanamide
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+4-keto-4-(3-pyridyl)butyramide
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C9H10N2O2/c10-9(13)4-3-8(12)7-2-1-5-11-6-7/h1-2,5-6H,3-4H2,(H2,10,13)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+DJEKVKGYYASXCW-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>  (1) 
+-0.8
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+178.074228
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C9H10N2O2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+178.19
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1=CC(=CN=C1)C(=O)CCC(=O)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1=CC(=CN=C1)C(=O)CCC(=O)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+73
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+178.074228
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+13
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+10  12  8
+12  13  8
+3  11  8
+3  13  8
+8  10  8
+8  11  8
+
+$$$$

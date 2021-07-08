@@ -1,0 +1,138 @@
+604
+     RDKit          2D
+
+ 13 12  0  0  1  0  0  0  0  0999 V2000
+    0.8649    2.0342    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3703   -1.7373    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2274   -1.6932    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7328    1.9901    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7997   -0.1493    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3050    0.4462    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9680   -1.7814    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8904    0.5344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3957   -0.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2020   -0.1934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7073    0.4903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4881    0.5785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9934   -0.2816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  2  9  1  0
+  3 10  1  0
+  4 11  1  0
+  5 12  1  0
+  6 13  1  0
+  7 13  2  0
+  8  9  1  0
+  8 10  1  0
+  9 11  1  0
+ 10 12  1  0
+ 11 13  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+604
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+170
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+7
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+6
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+5
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBgOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACAAACBSggAIACAAAAgAIAACQCAIAAAAAAAAAAAFAAAABEBYAAAAAQAAFIAABAAHKbARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+2,3,4,5,6-pentahydroxyhexanoic acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+2,3,4,5,6-pentahydroxyhexanoic acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+2,3,4,5,6-pentahydroxyhexanoic acid
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+2,3,4,5,6-pentahydroxyhexanoic acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+2,3,4,5,6-pentakis(oxidanyl)hexanoic acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+2,3,4,5,6-pentahydroxyhexanoic acid
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C6H12O7/c7-1-2(8)3(9)4(10)5(11)6(12)13/h2-5,7-11H,1H2,(H,12,13)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+RGHNJXZEOKUKBD-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-3.4
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+196.058303
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C6H12O7
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+196.16
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C(C(C(C(C(C(=O)O)O)O)O)O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C(C(C(C(C(C(=O)O)O)O)O)O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+138
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+196.058303
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+13
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+4
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+8  1  3
+9  2  3
+10  3  3
+11  4  3
+
+$$$$

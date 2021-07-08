@@ -1,0 +1,146 @@
+609
+     RDKit          2D
+
+ 16 16  0  0  1  0  0  0  0  0999 V2000
+   -3.8466   -0.1752    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5327   -1.2105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6994    2.7546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6189    2.0644    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4234   -2.9923    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3869   -0.5203    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5015    1.2846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3064    0.1699    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1917   -1.6349    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4809   -0.8091    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1304    1.3179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5902    0.9728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0212   -0.4640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1017    0.2263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9924   -1.5556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3581    0.5714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0
+  1  7  1  0
+  1  8  1  0
+  1  9  2  0
+  2 14  1  0
+  2 15  1  0
+  3 11  1  0
+  4 12  1  0
+  5 15  1  0
+  6 16  1  0
+ 10 13  1  0
+ 11 12  1  0
+ 11 14  1  0
+ 12 13  1  0
+ 13 15  1  0
+ 14 16  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+609
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+282
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+9
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+6
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBiPAIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAHgAQCCAACDzxgAcACABABxAAQAAAAIAAAAAAAAAAAIAAAAATEAIAgAADQAAHEAAHAAHwcAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+(5-amino-3,4,6-trihydroxy-tetrahydropyran-2-yl)methyl dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+(5-amino-3,4,6-trihydroxy-2-oxanyl)methyl dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+(5-amino-3,4,6-trihydroxyoxan-2-yl)methyl dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+(5-amino-3,4,6-trihydroxyoxan-2-yl)methyl dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+[5-azanyl-3,4,6-tris(oxidanyl)oxan-2-yl]methyl dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+(5-amino-3,4,6-trihydroxy-tetrahydropyran-2-yl)methyl dihydrogen phosphate
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C6H14NO8P/c7-3-5(9)4(8)2(15-6(3)10)1-14-16(11,12)13/h2-6,8-10H,1,7H2,(H2,11,12,13)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+XHMJOUIAFHJHBW-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-6.8
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+259.045703
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C6H14NO8P
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+259.15
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+163
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+259.045703
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+16
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+5
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+13  10  3
+14  16  3
+11  3  3
+12  4  3
+15  5  3
+
+$$$$

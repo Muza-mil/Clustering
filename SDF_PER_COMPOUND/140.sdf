@@ -1,0 +1,186 @@
+140
+     RDKit          2D
+
+ 31 34  0  0  1  0  0  0  0  0999 V2000
+   -1.5828   -1.1533    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3654    3.6180    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6177   -2.9141    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.2016   -1.2930    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4059    1.1629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8512    1.9813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1885    1.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2686   -0.1961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6059   -0.8756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5727    2.1056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3257   -0.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0115   -1.0145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8630   -0.0572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4613    3.4297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4455    2.1201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0367    3.5065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7828    1.4406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6861   -2.3735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7417    0.4804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0211    1.7157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2003   -0.7367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3488   -1.6940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0233   -3.0530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2804   -2.2346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4078    0.2664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0830    2.7752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8562   -0.1234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2428   -1.5727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6913   -1.9626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7531   -0.9031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0779   -3.4119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  2 15  1  0
+  3 24  1  0
+  4 30  1  0
+  5  6  1  0
+  5 10  1  0
+  5 11  1  0
+  5 19  1  0
+  6  7  1  0
+  6 14  1  0
+  7  8  1  0
+  7 15  1  0
+  8  9  1  0
+  8 12  1  0
+  9 13  1  0
+  9 18  1  0
+  9 22  1  0
+ 10 16  1  0
+ 10 20  1  0
+ 11 12  1  0
+ 13 17  1  0
+ 13 21  1  0
+ 14 16  1  0
+ 15 17  1  0
+ 18 23  1  0
+ 20 25  1  0
+ 20 26  1  0
+ 21 24  1  0
+ 23 24  1  0
+ 25 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 29 31  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+140
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+624
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+4
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+6
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADcfB4OAAAAAAAAAAAAAAAAAAAAYAAAAAwYMAAAAAAAGDAAAAAGgAACAAADxSggAICAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAEAIAAAAAQAAEAAAAAAGA4PQPgAAAAAAAAADAAAYAADAAAQAACAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+17-(6-hydroxy-1,5-dimethyl-hexyl)-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthrene-3,7,12-triol
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+17-(7-hydroxy-6-methylheptan-2-yl)-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthrene-3,7,12-triol
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+17-(7-hydroxy-6-methylheptan-2-yl)-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1<I>H</I>-cyclopenta[a]phenanthrene-3,7,12-triol
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+17-(7-hydroxy-6-methylheptan-2-yl)-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthrene-3,7,12-triol
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+10,13-dimethyl-17-(6-methyl-7-oxidanyl-heptan-2-yl)-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthrene-3,7,12-triol
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+17-(6-hydroxy-1,5-dimethyl-hexyl)-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthrene-3,7,12-triol
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C27H48O4/c1-16(15-28)6-5-7-17(2)20-8-9-21-25-22(14-24(31)27(20,21)4)26(3)11-10-19(29)12-18(26)13-23(25)30/h16-25,28-31H,5-15H2,1-4H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+XJZGNVBLVFOSKJ-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+5.3
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+436.35526
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C27H48O4
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+436.7
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+CC(CCCC(C)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C)CO
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+CC(CCCC(C)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C)CO
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+80.9
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+436.35526
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+31
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+12
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+11  1  3
+10  16  3
+13  21  3
+15  2  3
+20  26  3
+29  31  3
+24  3  3
+5  19  3
+6  14  3
+7  15  3
+8  12  3
+9  22  3
+
+$$$$

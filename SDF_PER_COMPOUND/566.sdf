@@ -1,0 +1,136 @@
+566
+     RDKit          2D
+
+ 11 10  0  0  0  0  0  0  0  0999 V2000
+    2.5714    0.0000    0.0000 Hg  0  0  0  0  0  1  0  0  0  0  0  0
+    1.2990    2.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.5490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0714    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3214   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3214    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1786   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1786    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9286    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.0490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2990    2.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  2 10  1  0
+  3 10  2  0
+  4  5  2  0
+  4  6  1  0
+  5  7  1  0
+  6  8  2  0
+  7  9  2  0
+  8  9  1  0
+ 10 11  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+566
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+109
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBwMAAAAAAAAAAAAQAAAAAAAAAAAAAwAAAAAAAAAAABAAAAGgAACAAACACAkAAyCIAAAgCIACDSCAACAAAgAAAIiAAAAIgIICKAERCAIAAggAAIiAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+acetic acid;phenylmercury
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+acetic acid;phenylmercury
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+acetic acid;phenylmercury
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+acetic acid;phenylmercury
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+ethanoic acid;phenylmercury
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+acetic acid;phenylmercury
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C6H5.C2H4O2.Hg/c1-2-4-6-5-3-1;1-2(3)4;/h1-5H;1H3,(H,3,4);
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+VZMLVEGOODGDCT-UHFFFAOYSA-N
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+339.030898
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C8H9HgO2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+337.75
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+CC(=O)O.C1=CC=C(C=C1)[Hg]
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+CC(=O)O.C1=CC=C(C=C1)[Hg]
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+37.3
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+339.030898
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+11
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_NONSTANDARDBOND>  (1) 
+1  2  6
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+4  5  8
+4  6  8
+5  7  8
+6  8  8
+7  9  8
+8  9  8
+
+$$$$

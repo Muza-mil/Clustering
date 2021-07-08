@@ -1,0 +1,141 @@
+413
+     RDKit          2D
+
+ 12 13  0  0  1  0  0  0  0  0999 V2000
+   -4.3264   -1.0634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6576   -0.9145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9417   -1.4682    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6576    0.2036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4120    1.5001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8782    1.1832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8347    0.0518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0299   -0.3091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7122    1.2683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4494   -1.3165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2045    1.1165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8193   -0.2517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0
+  2  4  1  0
+  2  8  1  0
+  3 10  2  0
+  3 12  1  0
+  4  5  1  0
+  4  7  1  0
+  5  6  1  0
+  6  8  1  0
+  7  9  2  0
+  7 10  1  0
+  9 11  1  0
+ 11 12  2  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+413
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+181
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBzIAAAAAAAAAAAAAAAAAAAAWAAAAAsAAAAAAAAAAABgAAAHgAQAAAADCjBmgQ8gJLIEACoAjF3VACCgCAxAiAI2KE4ZJgIIPLA0ZGEIAhglgDIyAcciICOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+5-(3-pyridyl)pyrrolidin-2-one
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+5-(3-pyridinyl)-2-pyrrolidinone
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+5-pyridin-3-ylpyrrolidin-2-one
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+5-pyridin-3-ylpyrrolidin-2-one
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+5-pyridin-3-ylpyrrolidin-2-one
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+5-(3-pyridyl)-2-pyrrolidone
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C9H10N2O/c12-9-4-3-8(11-9)7-2-1-5-10-6-7/h1-2,5-6,8H,3-4H2,(H,11,12)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+FXFANIORDKRCCA-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+0.1
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+162.079313
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C9H10N2O
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+162.19
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C1CC(=O)NC1C2=CN=CC=C2
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C1CC(=O)NC1C2=CN=CC=C2
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+42
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+162.079313
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+12
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+11  12  8
+3  10  8
+3  12  8
+4  7  3
+7  10  8
+7  9  8
+9  11  8
+
+$$$$

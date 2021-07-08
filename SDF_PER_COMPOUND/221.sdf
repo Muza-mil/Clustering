@@ -1,0 +1,156 @@
+221
+     RDKit          2D
+
+ 19 19  0  0  1  0  0  0  0  0999 V2000
+   -2.9634   -1.9785    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2078    1.9175    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7797    1.5501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1395   -0.3023    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7203    1.5350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7848   -3.2872    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5763    0.8001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1806   -1.2436    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7525   -0.8761    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9361    2.6525    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1755   -0.4936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9956    0.4326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5676    0.0651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6036   -0.1261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7475   -0.8610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9684    0.2414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1483    1.1676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5404    0.6088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5726   -1.8023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  2 12  1  0
+  3 13  1  0
+  4 15  1  0
+  5 18  2  0
+  6 19  2  0
+  7 14  1  0
+  7 16  1  0
+  8 16  1  0
+  8 19  1  0
+  9 18  1  0
+  9 19  1  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 13  1  0
+ 12 14  1  0
+ 13 15  1  0
+ 16 17  2  0
+ 17 18  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+221
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+398
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+8
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+8
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+6
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADceBzuAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAHgAQCAAACBzhgAYBAALAAgCIAAVQUACAAAAAAAAAAICIAECDUAIAgAAUQAAPFSIRAEDwEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+5-amino-6-(2,3,4,5-tetrahydroxypentylamino)-1H-pyrimidine-2,4-dione
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+5-amino-6-(2,3,4,5-tetrahydroxypentylamino)-1H-pyrimidine-2,4-dione
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+5-amino-6-(2,3,4,5-tetrahydroxypentylamino)-1<I>H</I>-pyrimidine-2,4-dione
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+5-amino-6-(2,3,4,5-tetrahydroxypentylamino)-1H-pyrimidine-2,4-dione
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+5-azanyl-6-[2,3,4,5-tetrakis(oxidanyl)pentylamino]-1H-pyrimidine-2,4-dione
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+5-amino-6-(2,3,4,5-tetrahydroxypentylamino)uracil
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C9H16N4O6/c10-5-7(12-9(19)13-8(5)18)11-1-3(15)6(17)4(16)2-14/h3-4,6,14-17H,1-2,10H2,(H3,11,12,13,18,19)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+XKQZIXVJVUPORE-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+-3.2
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+276.106984
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C9H16N4O6
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+276.25
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>  (1) 
+C(C(C(C(CO)O)O)O)NC1=C(C(=O)NC(=O)N1)N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>  (1) 
+C(C(C(C(CO)O)O)O)NC1=C(C(=O)NC(=O)N1)N
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+177
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+276.106984
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+19
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+3
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+11  1  3
+16  17  8
+17  18  8
+12  2  3
+13  3  3
+8  16  8
+8  19  8
+9  18  8
+9  19  8
+
+$$$$
