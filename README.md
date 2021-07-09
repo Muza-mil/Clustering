@@ -34,6 +34,8 @@ PS.: You may need some additional libraries.
 
 ## Pubchem Compounds Clustering `CODE BASE`
 
+![Alt text](relative/path/to/img.jpg?raw=true "Implementation Steps")
+
 ### Task 1
 `Embedding of Compounds` \
 \
