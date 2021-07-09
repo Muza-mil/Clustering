@@ -33,8 +33,18 @@ PS.: You may need some additional libraries.
 
 
 ## Pubchem Compounds Clustering `CODE BASE`
+### Subtasks
+1. Perform embedding of all about 111 million compounds from PubChem database 
+2. Computer dendrogram from hierarchical clustering
+3. Compute for each (sub)cluster the medoid compound
+4. Compute for each (sub)cluster the variance (increase...)
 
-![Alt text](../-/blob/master/steps.jpg?raw=true "Implementation Steps")
+5. Runtime experiments:
+   Run one experiment for a query compound q brute-force against all compounds in sequential order
+   Run one experiment for q using the hierarchy with medoids and variance
+
+
+![Implementation Steps](../-/blob/master/steps.jpg?raw=true "Implementation Steps")
 
 ### Task 1
 `Embedding of Compounds` \
