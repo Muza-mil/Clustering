@@ -1,4 +1,0 @@
-pip install -Iv gensim==3.8.2
-
- No module named 'import_ipynb'
- pip install import_ipynb
