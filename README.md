@@ -61,6 +61,32 @@ Note : Download all the compound files from the PubChem database and extract the
 For task 2 the workflows is as mentioned below:
 1. Run the `clustering2.py` file .Once that's gets done Dendogram png file will be available in TEMP_TEST folder.
 
+### Task 4
+`A . Computation of median absolute deviation (MAD)` \
+\
+For the computation of MAD:
+You are required to have cluster with medoid as an input which can be acquired by loading a dictionary named
+`medoid_cluster_dict.pkl` from the repo and yeild all the cluster with their medoids.
+
+*) Run the `MAD(cluster, medoid)` in `variance.py` to get median absolute value.
+
+`B . Computation of Bounding Box` \
+\
+For the computation of Bounding Box:
+You are required to have a cluster of compounds as an input with upper and lower bounds of each 300 dimentional
+compound vector in the cluster.
+
+*) Run the `get_bbox(cluster)` in `variance.py` to get a bounding box for relevant cluster.
+
+`C . Creating dictionary` \
+\
+For the creation of dictionary:
+Can be used to searching new query compound having information of bounding box and MAD for each specific cluster .
+
+*) Run the `compute_variance(medoid_list)` in `variance.py` to create a dictionary with 
+   `[key -> clusterID: value -> [Bounding box, MAD value]]`.
+
+
 ### Nice to know
 All the routines are well documented in case you want to see the work flow inside pipelines. 
 
