@@ -2,8 +2,8 @@
 
 # Introduction to the project
 
-Generation of cluster hierarchies using structured large database from `PubChem` by embedding of molecular compounds into 300 dimentional stochastic vectors with Mol2Vec, a machine learning approach. Research and developement for accelerating similarity measuremnt of different compounds by clustering using agglomerative algorithm. Also computation of dendrogram (for the representation of cluster hierarchies of compounds), medoid, bounding box, variance of each sub-clusters. In addition benchmark it by performing similarity search a). Use naive algorithm 
-b). Use Binary tree.   
+Generation of cluster hierarchies using structured large database from `PubChem` by embedding of molecular compounds into 300 dimentional stochastic vectors with Mol2Vec, a machine learning approach. Research and developement for accelerating similarity measuremnt of different compounds by clustering using agglomerative algorithm. Also computation of dendrogram (for the representation of cluster hierarchies of compounds), medoid, bounding box, variance of each sub-clusters. In addition benchmark it by performing similarity search a). Used naive algorithm 
+b). Used Binary tree.   
 
 ## Environment Setup:
 (Preferred : OS: ubuntu ,IDE: Pycharm )
