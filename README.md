@@ -110,7 +110,15 @@ Can be used to searching new query compound having information of bounding box a
 *) Run the `compute_variance(medoid_list)` in `variance.py` to create a dictionary with 
    `[key -> clusterID: value -> [Bounding box, MAD value]]`.
 
-
+### Task 5
+`Runtime experiments`\
+For experiment we use 25 compounds from `Compound_000500001_001000000.sdf`. Compare distance and number of search to evaluate project. \
+To prepare test data use `prepare_sdf_for_experiment()` from `search_relative_compound.ipynb` file. It split 25 compounds then Mol2Vec featurize and vectorize them.\
+1. `Sequential search or naive search`\
+   `get_relative_compound()` from `search_relative_compound.ipynb` file, to get relative compound by sequentialy compare with each compound.
+2. `Tree search using medoid`\
+   `search_relative_compound()` from `bTree.ipynb` file, to get relative compound by tree search, where query compound compare with medoid.
+ 
 ### Nice to know
 All the routines are well documented in case you want to see the work flow inside pipelines. 
 
