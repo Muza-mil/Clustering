@@ -86,7 +86,7 @@ We devide this task into 4 subtask.
    4.3 `vect2cid()` from `extract_info.ipynb` use to retrive cid for corresponding 300 vectors. 
 
 ### Task 4
-`A . Computation of median absolute deviation (MAD)` - Muhammed Muzamil  \ 
+`A . Computation of median absolute deviation (MAD)` - Muhammed Muzamil  
 \
 For the computation of MAD:
 You are required to have cluster with medoid as an input which can be acquired by loading a dictionary named
