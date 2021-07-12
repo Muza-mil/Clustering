@@ -52,7 +52,7 @@ PS.: You may need some additional libraries.
 ![Implementation Steps](../-/blob/master/steps.jpg?raw=true "Implementation Steps")
 
 ### Task 1
-`Embedding of Compounds` \
+`Embedding of Compounds`  - All group members
 \
 For task 1 the workflows is as mentioned below:
 Note : Download all the compound files from the PubChem database and extract them to SDF_BATCHES folder.
@@ -61,13 +61,13 @@ Note : Download all the compound files from the PubChem database and extract the
 3. Run the `MOL2VEC VECTORIZATION ROUTINE` from `main.py` file .Once that's gets done CSV file will be available in VECTORIZED_CSV folder.
 
 ### Task 2
-`Dendogram Generation` \
+`Dendogram Generation`  - Sana Ghaffar \
 \
 For task 2 the workflows is as mentioned below:
 1. Run the `generate_cluster()` from `clustering2.py` file .Once that's gets Dendogram image.
 
 ### Task 3
-`Computation of medoid compound` \
+`Computation of medoid compound`  - Rahima Akter & Ece Özdemir \
 We devide this task into 4 subtask.
 1. `Cut the dendrogram and extract clusters` \
    1.1 `store_cid_indexId()` use to maintain relation between index and compound id. Linkage Matrix provide us index of dataset instead of compound id. \
@@ -86,7 +86,7 @@ We devide this task into 4 subtask.
    4.3 `vect2cid()` from `extract_info.ipynb` use to retrive cid for corresponding 300 vectors. 
 
 ### Task 4
-`A . Computation of median absolute deviation (MAD)` \
+`A . Computation of median absolute deviation (MAD)` - Muhammed Muzamil  \ 
 \
 For the computation of MAD:
 You are required to have cluster with medoid as an input which can be acquired by loading a dictionary named
@@ -111,7 +111,7 @@ Can be used to searching new query compound having information of bounding box a
    `[key -> clusterID: value -> [Bounding box, MAD value]]`.
 
 ### Task 5
-`Runtime experiments`\
+`Runtime experiments` - All group members \
 For experiment we use 25 compounds from `Compound_000500001_001000000.sdf`. Compare distance and number of search to evaluate project. \
 To prepare test data use `prepare_sdf_for_experiment()` from `search_relative_compound.ipynb` file. It split 25 compounds then Mol2Vec featurize and vectorize them.
 1. `Sequential search or naive search`\
