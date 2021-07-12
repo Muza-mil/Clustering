@@ -39,7 +39,7 @@ PS.: You may need some additional libraries.
 
 ## Pubchem Compounds Clustering `CODE BASE`
 ### Subtasks
-1. Perform embedding of all about 111 million compounds from PubChem database 
+1. Perform embedding of all about 111 million compounds from PubChem database  
 2. Computer dendrogram from hierarchical clustering
 3. Compute for each (sub)cluster the medoid compound
 4. Compute for each (sub)cluster the variance (increase...)
@@ -68,13 +68,13 @@ For task 2 the workflows is as mentioned below:
 
 ### Task 3
 `Computation of medoid compound` \
-For task 3, we devide this task into 4 subtask.
+We devide this task into 4 subtask.
 1. `Cut the dendrogram and extract clusters` \
-   1.1 `store_cid_indexId()` use to maintain link between index and compound id, linkageMatrix provide us index of dataset instead of compound id. \
-   1.2 `compute_a_helper_to_genarate_tree(linkageMatrix,no_of_leaves)` from `clustering2.py` file. Here we use linkageMatrix,no_of_leaves info from task 2. This function provide a dictionary of cluster's alignment which help later to construct tree. \
-   1.3 `cut_dendrogram_in_joining_distance(linkageMatrix,no_of_leaves)` from  `clustering2.py` file. To extract clusters. 
+   1.1 `store_cid_indexId()` use to maintain relation between index and compound id. Linkage Matrix provide us index of dataset instead of compound id. \
+   1.2 `compute_a_helper_to_genarate_tree()` from `clustering2.py` file. Here we use linkageMatrix,no_of_leaves info from task 2. This function provide a dictionary of cluster's alignment which help later to construct tree. \
+   1.3 `cut_dendrogram_in_joining_distance(linkageMatrix,no_of_leaves)` from  `clustering2.py` file. To extract clusters after cut. 
 2. `Find medoid for each cluster` \
-   2.1 `get_medoids_from_clusters()` from `clustering2.py` file. here dict_clusters is a dictionary of `cluster id -> [medoid,cluster items,parent]` \
+   2.1 `get_medoids_from_clusters()` from `clustering2.py` file. Here dict_clusters is a dictionary of `cluster id -> [medoid,cluster items,parent]` \
    2.2 `store_medoid_list()` store cluster dictionary into a pickle file. This require for variance computation. 
 3. `Construct a tree using medoid` \
    3.1 `bTree.ipynb` file contain data structure for tree construction.  \
@@ -113,7 +113,7 @@ Can be used to searching new query compound having information of bounding box a
 ### Task 5
 `Runtime experiments`\
 For experiment we use 25 compounds from `Compound_000500001_001000000.sdf`. Compare distance and number of search to evaluate project. \
-To prepare test data use `prepare_sdf_for_experiment()` from `search_relative_compound.ipynb` file. It split 25 compounds then Mol2Vec featurize and vectorize them.\
+To prepare test data use `prepare_sdf_for_experiment()` from `search_relative_compound.ipynb` file. It split 25 compounds then Mol2Vec featurize and vectorize them.
 1. `Sequential search or naive search`\
    `get_relative_compound()` from `search_relative_compound.ipynb` file, to get relative compound by sequentialy compare with each compound.
 2. `Tree search using medoid`\
